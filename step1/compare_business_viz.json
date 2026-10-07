@@ -1,0 +1,338 @@
+{
+    "Filiberto's Mexican Food": {
+        "Rating_1": [
+            {
+                "word": "card",
+                "score": 7.199998446779694
+            },
+            {
+                "word": "taco",
+                "score": 5.400071809104201
+            },
+            {
+                "word": "yuck",
+                "score": 5.200485767920139
+            },
+            {
+                "word": "location",
+                "score": 5.200078469344445
+            },
+            {
+                "word": "credit",
+                "score": 5.199998419950152
+            }
+        ],
+        "Rating_2": [
+            {
+                "word": "night",
+                "score": 3.1999899453231286
+            },
+            {
+                "word": "food",
+                "score": 1.8001167117211039
+            },
+            {
+                "word": "gross",
+                "score": 1.799998674630817
+            },
+            {
+                "word": "mexican",
+                "score": 1.799998674630817
+            },
+            {
+                "word": "good",
+                "score": 1.6001130669581702
+            }
+        ],
+        "Rating_3": [
+            {
+                "word": "burrito",
+                "score": 11.39998594833895
+            },
+            {
+                "word": "food",
+                "score": 9.399987789831904
+            },
+            {
+                "word": "location",
+                "score": 5.199994878818406
+            },
+            {
+                "word": "good",
+                "score": 4.2001513661557155
+            },
+            {
+                "word": "really",
+                "score": 3.199995802036562
+            }
+        ],
+        "Rating_4": [
+            {
+                "word": "good",
+                "score": 5.800299392459738
+            },
+            {
+                "word": "ve",
+                "score": 5.200325779545025
+            },
+            {
+                "word": "burrito",
+                "score": 4.200416771105969
+            },
+            {
+                "word": "food",
+                "score": 4.200054612591086
+            },
+            {
+                "word": "bacon",
+                "score": 4.199995854388909
+            }
+        ],
+        "Rating_5": [
+            {
+                "word": "mexican",
+                "score": 14.599994910120651
+            },
+            {
+                "word": "burrito",
+                "score": 13.400694022151004
+            },
+            {
+                "word": "food",
+                "score": 9.600466800382307
+            },
+            {
+                "word": "filiberto",
+                "score": 9.399997322032597
+            },
+            {
+                "word": "relleno",
+                "score": 7.200205029919403
+            }
+        ]
+    },
+    "Carolina's Mexican Food": {
+        "Rating_1": [
+            {
+                "word": "place",
+                "score": 19.799992456129814
+            },
+            {
+                "word": "food",
+                "score": 16.60372716956207
+            },
+            {
+                "word": "good",
+                "score": 10.202405278456016
+            },
+            {
+                "word": "burrito",
+                "score": 9.400733284660461
+            },
+            {
+                "word": "beef",
+                "score": 9.400558766214541
+            }
+        ],
+        "Rating_2": [
+            {
+                "word": "food",
+                "score": 38.999999999999524
+            },
+            {
+                "word": "place",
+                "score": 21.60124122459874
+            },
+            {
+                "word": "mexican",
+                "score": 17.6009713277393
+            },
+            {
+                "word": "good",
+                "score": 16.60117496736797
+            },
+            {
+                "word": "just",
+                "score": 10.401569312213205
+            }
+        ],
+        "Rating_3": [
+            {
+                "word": "food",
+                "score": 48.802306831563044
+            },
+            {
+                "word": "good",
+                "score": 32.800352541510904
+            },
+            {
+                "word": "place",
+                "score": 28.8006056517383
+            },
+            {
+                "word": "mexican",
+                "score": 25.601139658012436
+            },
+            {
+                "word": "like",
+                "score": 16.602850777002647
+            }
+        ],
+        "Rating_4": [
+            {
+                "word": "food",
+                "score": 117.9999999999985
+            },
+            {
+                "word": "good",
+                "score": 74.23879913504744
+            },
+            {
+                "word": "tortillas",
+                "score": 71.73029064491271
+            },
+            {
+                "word": "place",
+                "score": 70.58590518849952
+            },
+            {
+                "word": "carolina",
+                "score": 54.802324919131905
+            }
+        ],
+        "Rating_5": [
+            {
+                "word": "food",
+                "score": 171.99999999999818
+            },
+            {
+                "word": "mexican",
+                "score": 115.99999999999818
+            },
+            {
+                "word": "place",
+                "score": 110.9999999999982
+            },
+            {
+                "word": "tortillas",
+                "score": 105.99999999999818
+            },
+            {
+                "word": "carolina",
+                "score": 90.9999999999982
+            }
+        ]
+    },
+    "Elvira's Mexican Food": {
+        "Rating_1": [
+            {
+                "word": "food",
+                "score": 17.59998754734226
+            },
+            {
+                "word": "just",
+                "score": 5.4003684711220945
+            },
+            {
+                "word": "elvira",
+                "score": 5.400337692446356
+            },
+            {
+                "word": "margarita",
+                "score": 5.201211426095882
+            },
+            {
+                "word": "got",
+                "score": 4.601905670033567
+            }
+        ],
+        "Rating_2": [
+            {
+                "word": "draft",
+                "score": 5.199997095594934
+            },
+            {
+                "word": "beer",
+                "score": 5.199997095594934
+            },
+            {
+                "word": "sit",
+                "score": 4.199997051841892
+            },
+            {
+                "word": "booth",
+                "score": 4.199997051841892
+            },
+            {
+                "word": "table",
+                "score": 4.199997051841892
+            }
+        ],
+        "Rating_3": [
+            {
+                "word": "food",
+                "score": 13.999999999999932
+            },
+            {
+                "word": "salsa",
+                "score": 4.39997842433064
+            },
+            {
+                "word": "taco",
+                "score": 4.201103109438032
+            },
+            {
+                "word": "good",
+                "score": 4.200628692762437
+            },
+            {
+                "word": "globe",
+                "score": 4.19999515237546
+            }
+        ],
+        "Rating_4": [
+            {
+                "word": "food",
+                "score": 8.600396590899532
+            },
+            {
+                "word": "place",
+                "score": 7.400117604132349
+            },
+            {
+                "word": "good",
+                "score": 6.401552759661779
+            },
+            {
+                "word": "hot",
+                "score": 3.401523017850414
+            },
+            {
+                "word": "great",
+                "score": 3.4002409339544224
+            }
+        ],
+        "Rating_5": [
+            {
+                "word": "food",
+                "score": 11.802414071157795
+            },
+            {
+                "word": "mexican",
+                "score": 8.999999999999897
+            },
+            {
+                "word": "good",
+                "score": 5.400955827388213
+            },
+            {
+                "word": "great",
+                "score": 4.403039107714854
+            },
+            {
+                "word": "elvira",
+                "score": 4.200511789136802
+            }
+        ]
+    }
+}

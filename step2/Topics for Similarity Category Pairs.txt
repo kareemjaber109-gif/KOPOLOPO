@@ -1,0 +1,166 @@
+Topics for ('Chinese', 'Vegetarian'):
+(0, '0.020*"food" + 0.014*"place" + 0.013*"good" + 0.010*"order" + 0.009*"like" + 0.008*"chicken" + 0.007*"restaur" + 0.007*"chines" + 0.007*"time" + 0.006*"great"')
+(1, '0.007*"food" + 0.006*"place" + 0.005*"good" + 0.005*"like" + 0.004*"realli" + 0.004*"time" + 0.004*"chicken" + 0.004*"back" + 0.004*"order" + 0.004*"get"')
+(2, '0.014*"good" + 0.013*"food" + 0.011*"place" + 0.011*"order" + 0.008*"great" + 0.008*"chicken" + 0.007*"get" + 0.007*"time" + 0.007*"like" + 0.007*"servic"')
+
+
+Topics for ('Chinese', 'Korean'):
+(0, '0.004*"food" + 0.003*"good" + 0.003*"place" + 0.003*"like" + 0.003*"order" + 0.002*"chines" + 0.002*"time" + 0.002*"servic" + 0.002*"realli" + 0.002*"one"')
+(1, '0.018*"food" + 0.014*"good" + 0.011*"place" + 0.011*"order" + 0.010*"like" + 0.008*"get" + 0.008*"time" + 0.007*"chines" + 0.007*"one" + 0.006*"chicken"')
+(2, '0.019*"food" + 0.015*"place" + 0.013*"good" + 0.010*"order" + 0.008*"like" + 0.008*"chicken" + 0.008*"restaur" + 0.008*"chines" + 0.007*"servic" + 0.007*"great"')
+
+
+Topics for ('Chinese', 'Indonesian'):
+(0, '0.017*"good" + 0.015*"food" + 0.015*"place" + 0.013*"order" + 0.010*"chines" + 0.008*"chicken" + 0.008*"like" + 0.008*"time" + 0.007*"one" + 0.007*"rice"')
+(1, '0.006*"good" + 0.004*"food" + 0.003*"like" + 0.003*"chines" + 0.003*"place" + 0.003*"order" + 0.003*"time" + 0.003*"one" + 0.002*"great" + 0.002*"restaur"')
+(2, '0.022*"food" + 0.012*"place" + 0.011*"good" + 0.009*"like" + 0.009*"order" + 0.008*"chicken" + 0.008*"chines" + 0.007*"restaur" + 0.007*"servic" + 0.007*"get"')
+
+
+Topics for ('Pizza', 'Italian'):
+(0, '0.025*"pizza" + 0.016*"good" + 0.013*"place" + 0.010*"great" + 0.008*"time" + 0.008*"order" + 0.007*"servic" + 0.007*"food" + 0.007*"like" + 0.007*"realli"')
+(1, '0.019*"pizza" + 0.012*"good" + 0.011*"place" + 0.009*"food" + 0.009*"time" + 0.008*"like" + 0.008*"get" + 0.007*"order" + 0.007*"great" + 0.006*"tri"')
+(2, '0.022*"pizza" + 0.014*"food" + 0.012*"order" + 0.011*"place" + 0.011*"good" + 0.009*"great" + 0.009*"like" + 0.007*"one" + 0.007*"servic" + 0.006*"back"')
+
+
+Topics for ('Sandwiches', 'Breakfast & Brunch'):
+(0, '0.011*"good" + 0.010*"order" + 0.009*"food" + 0.009*"place" + 0.008*"sandwich" + 0.008*"great" + 0.008*"time" + 0.007*"get" + 0.007*"like" + 0.007*"servic"')
+(1, '0.015*"good" + 0.014*"place" + 0.012*"food" + 0.010*"like" + 0.008*"sandwich" + 0.008*"order" + 0.007*"one" + 0.007*"time" + 0.007*"great" + 0.007*"tri"')
+(2, '0.014*"place" + 0.013*"food" + 0.010*"good" + 0.010*"great" + 0.009*"order" + 0.009*"sandwich" + 0.008*"like" + 0.007*"get" + 0.007*"time" + 0.007*"realli"')
+
+
+Topics for ('Sandwiches', 'American (New)'):
+(0, '0.014*"place" + 0.012*"good" + 0.010*"food" + 0.009*"order" + 0.009*"great" + 0.009*"like" + 0.008*"time" + 0.008*"get" + 0.008*"sandwich" + 0.007*"tri"')
+(1, '0.013*"food" + 0.012*"place" + 0.011*"good" + 0.009*"like" + 0.008*"one" + 0.007*"get" + 0.007*"servic" + 0.006*"time" + 0.006*"order" + 0.006*"great"')
+(2, '0.012*"good" + 0.012*"food" + 0.011*"great" + 0.009*"order" + 0.009*"place" + 0.007*"like" + 0.007*"time" + 0.006*"servic" + 0.006*"realli" + 0.006*"back"')
+
+
+Topics for ('Sandwiches', 'Soup'):
+(0, '0.016*"sandwich" + 0.014*"place" + 0.012*"good" + 0.011*"food" + 0.011*"order" + 0.009*"time" + 0.008*"like" + 0.008*"great" + 0.008*"get" + 0.007*"tri"')
+(1, '0.015*"sandwich" + 0.013*"place" + 0.012*"good" + 0.009*"great" + 0.009*"get" + 0.009*"like" + 0.008*"food" + 0.008*"one" + 0.007*"order" + 0.006*"love"')
+(2, '0.014*"good" + 0.013*"place" + 0.010*"sandwich" + 0.009*"like" + 0.008*"food" + 0.008*"time" + 0.007*"tri" + 0.006*"great" + 0.006*"get" + 0.006*"order"')
+
+
+Topics for ('Sandwiches', 'Salad'):
+(0, '0.004*"sandwich" + 0.004*"place" + 0.004*"order" + 0.004*"good" + 0.003*"great" + 0.003*"like" + 0.003*"time" + 0.002*"tri" + 0.002*"realli" + 0.002*"get"')
+(1, '0.014*"sandwich" + 0.014*"good" + 0.012*"place" + 0.010*"great" + 0.009*"get" + 0.008*"food" + 0.007*"like" + 0.007*"one" + 0.007*"time" + 0.007*"order"')
+(2, '0.014*"place" + 0.013*"sandwich" + 0.012*"food" + 0.011*"good" + 0.010*"order" + 0.010*"like" + 0.008*"time" + 0.007*"get" + 0.007*"great" + 0.006*"one"')
+
+
+Topics for ('Breakfast & Brunch', 'American (New)'):
+(0, '0.012*"place" + 0.012*"good" + 0.010*"food" + 0.009*"order" + 0.009*"great" + 0.008*"servic" + 0.008*"get" + 0.007*"tri" + 0.007*"time" + 0.007*"like"')
+(1, '0.014*"food" + 0.013*"good" + 0.011*"place" + 0.009*"like" + 0.009*"great" + 0.008*"time" + 0.007*"order" + 0.007*"servic" + 0.007*"would" + 0.007*"one"')
+(2, '0.015*"food" + 0.010*"good" + 0.009*"place" + 0.009*"like" + 0.009*"great" + 0.008*"order" + 0.007*"time" + 0.006*"one" + 0.006*"realli" + 0.005*"get"')
+
+
+Topics for ('Breakfast & Brunch', 'Seafood'):
+(0, '0.013*"food" + 0.012*"good" + 0.010*"place" + 0.009*"great" + 0.008*"order" + 0.008*"like" + 0.008*"time" + 0.007*"servic" + 0.006*"one" + 0.006*"tri"')
+(1, '0.014*"place" + 0.014*"good" + 0.013*"food" + 0.009*"like" + 0.008*"get" + 0.008*"order" + 0.008*"time" + 0.008*"great" + 0.007*"servic" + 0.006*"one"')
+(2, '0.012*"food" + 0.011*"place" + 0.010*"good" + 0.010*"order" + 0.008*"great" + 0.007*"servic" + 0.007*"like" + 0.007*"breakfast" + 0.006*"time" + 0.006*"one"')
+
+
+Topics for ('Breakfast & Brunch', 'Salad'):
+(0, '0.015*"place" + 0.012*"good" + 0.011*"food" + 0.009*"great" + 0.008*"like" + 0.008*"time" + 0.008*"servic" + 0.007*"order" + 0.007*"breakfast" + 0.006*"one"')
+(1, '0.013*"good" + 0.010*"place" + 0.010*"food" + 0.010*"order" + 0.010*"great" + 0.009*"breakfast" + 0.008*"like" + 0.007*"servic" + 0.006*"time" + 0.006*"one"')
+(2, '0.018*"food" + 0.012*"place" + 0.011*"good" + 0.009*"like" + 0.009*"order" + 0.008*"get" + 0.008*"breakfast" + 0.007*"time" + 0.007*"great" + 0.006*"servic"')
+
+
+Topics for ('Breakfast & Brunch', 'Vegetarian'):
+(0, '0.015*"food" + 0.012*"place" + 0.010*"good" + 0.010*"great" + 0.009*"order" + 0.008*"like" + 0.008*"breakfast" + 0.007*"time" + 0.007*"servic" + 0.006*"get"')
+(1, '0.017*"place" + 0.013*"good" + 0.011*"food" + 0.009*"like" + 0.009*"get" + 0.008*"order" + 0.007*"time" + 0.007*"breakfast" + 0.006*"love" + 0.006*"tri"')
+(2, '0.015*"food" + 0.013*"good" + 0.010*"place" + 0.008*"great" + 0.008*"order" + 0.008*"servic" + 0.008*"like" + 0.007*"one" + 0.007*"time" + 0.007*"breakfast"')
+
+
+Topics for ('American (New)', 'Italian'):
+(0, '0.013*"place" + 0.011*"food" + 0.010*"like" + 0.009*"good" + 0.009*"servic" + 0.008*"order" + 0.007*"get" + 0.007*"great" + 0.007*"one" + 0.006*"tri"')
+(1, '0.014*"good" + 0.014*"food" + 0.011*"great" + 0.010*"place" + 0.009*"order" + 0.008*"time" + 0.007*"like" + 0.007*"realli" + 0.006*"pizza" + 0.006*"servic"')
+(2, '0.012*"good" + 0.011*"food" + 0.009*"place" + 0.008*"great" + 0.008*"time" + 0.007*"order" + 0.007*"restaur" + 0.007*"like" + 0.006*"pizza" + 0.006*"one"')
+
+
+Topics for ('American (New)', 'Seafood'):
+(0, '0.013*"food" + 0.012*"good" + 0.009*"great" + 0.008*"order" + 0.008*"place" + 0.007*"servic" + 0.007*"time" + 0.007*"get" + 0.007*"like" + 0.006*"one"')
+(1, '0.013*"place" + 0.013*"good" + 0.012*"food" + 0.009*"like" + 0.008*"order" + 0.008*"great" + 0.007*"time" + 0.007*"servic" + 0.007*"one" + 0.006*"tri"')
+(2, '0.011*"place" + 0.010*"food" + 0.009*"good" + 0.008*"great" + 0.008*"one" + 0.007*"back" + 0.007*"like" + 0.007*"get" + 0.006*"realli" + 0.006*"restaur"')
+
+
+Topics for ('American (New)', 'Salad'):
+(0, '0.014*"good" + 0.013*"food" + 0.012*"place" + 0.010*"like" + 0.009*"great" + 0.008*"time" + 0.007*"order" + 0.007*"tri" + 0.007*"get" + 0.006*"one"')
+(1, '0.012*"food" + 0.010*"place" + 0.009*"good" + 0.009*"great" + 0.008*"order" + 0.008*"servic" + 0.007*"get" + 0.007*"one" + 0.006*"time" + 0.006*"like"')
+(2, '0.013*"good" + 0.012*"food" + 0.011*"place" + 0.009*"like" + 0.008*"great" + 0.007*"time" + 0.007*"order" + 0.006*"restaur" + 0.006*"would" + 0.006*"one"')
+
+
+Topics for ('American (New)', 'Vegetarian'):
+(0, '0.015*"food" + 0.014*"good" + 0.012*"place" + 0.011*"great" + 0.009*"like" + 0.008*"order" + 0.007*"one" + 0.006*"would" + 0.006*"servic" + 0.006*"realli"')
+(1, '0.013*"food" + 0.011*"place" + 0.010*"good" + 0.008*"time" + 0.008*"great" + 0.008*"order" + 0.007*"like" + 0.007*"get" + 0.007*"one" + 0.006*"servic"')
+(2, '0.010*"good" + 0.009*"food" + 0.009*"servic" + 0.009*"place" + 0.008*"time" + 0.008*"order" + 0.007*"like" + 0.007*"great" + 0.006*"get" + 0.006*"tri"')
+
+
+Topics for ('American (New)', 'Indonesian'):
+(0, '0.011*"good" + 0.010*"great" + 0.010*"order" + 0.009*"food" + 0.009*"place" + 0.009*"time" + 0.008*"like" + 0.008*"get" + 0.007*"back" + 0.006*"realli"')
+(1, '0.014*"food" + 0.012*"place" + 0.011*"great" + 0.010*"good" + 0.007*"time" + 0.007*"like" + 0.007*"servic" + 0.007*"get" + 0.007*"order" + 0.006*"one"')
+(2, '0.014*"good" + 0.012*"food" + 0.011*"place" + 0.008*"like" + 0.008*"order" + 0.007*"servic" + 0.007*"great" + 0.007*"one" + 0.006*"love" + 0.006*"time"')
+
+
+Topics for ('Italian', 'Seafood'):
+(0, '0.013*"good" + 0.013*"food" + 0.011*"place" + 0.009*"time" + 0.009*"pizza" + 0.008*"like" + 0.008*"order" + 0.008*"great" + 0.007*"get" + 0.006*"servic"')
+(1, '0.006*"food" + 0.006*"order" + 0.006*"good" + 0.006*"place" + 0.005*"great" + 0.005*"pizza" + 0.004*"time" + 0.004*"servic" + 0.003*"realli" + 0.003*"like"')
+(2, '0.011*"good" + 0.011*"place" + 0.010*"food" + 0.009*"great" + 0.009*"order" + 0.008*"pizza" + 0.008*"servic" + 0.008*"like" + 0.007*"one" + 0.007*"restaur"')
+
+
+Topics for ('Italian', 'Salad'):
+(0, '0.014*"place" + 0.014*"pizza" + 0.011*"good" + 0.009*"great" + 0.009*"food" + 0.007*"time" + 0.007*"like" + 0.007*"order" + 0.007*"restaur" + 0.007*"get"')
+(1, '0.012*"food" + 0.010*"pizza" + 0.009*"great" + 0.009*"good" + 0.009*"order" + 0.008*"time" + 0.008*"place" + 0.007*"like" + 0.006*"get" + 0.006*"would"')
+(2, '0.015*"good" + 0.013*"food" + 0.012*"pizza" + 0.011*"place" + 0.010*"order" + 0.009*"like" + 0.008*"servic" + 0.008*"great" + 0.006*"time" + 0.006*"one"')
+
+
+Topics for ('Italian', 'Vegetarian'):
+(0, '0.014*"place" + 0.014*"good" + 0.012*"pizza" + 0.010*"food" + 0.008*"great" + 0.008*"like" + 0.007*"servic" + 0.007*"order" + 0.007*"restaur" + 0.007*"get"')
+(1, '0.012*"pizza" + 0.012*"food" + 0.010*"good" + 0.010*"place" + 0.010*"order" + 0.008*"like" + 0.007*"time" + 0.007*"one" + 0.007*"get" + 0.007*"great"')
+(2, '0.014*"food" + 0.012*"good" + 0.010*"great" + 0.010*"place" + 0.010*"pizza" + 0.008*"like" + 0.008*"order" + 0.007*"time" + 0.007*"servic" + 0.007*"one"')
+
+
+Topics for ('Seafood', 'Salad'):
+(0, '0.012*"food" + 0.011*"good" + 0.010*"like" + 0.009*"place" + 0.008*"order" + 0.007*"servic" + 0.007*"great" + 0.006*"time" + 0.006*"back" + 0.006*"get"')
+(1, '0.014*"food" + 0.012*"place" + 0.011*"good" + 0.009*"great" + 0.009*"like" + 0.008*"order" + 0.007*"one" + 0.006*"restaur" + 0.006*"get" + 0.006*"time"')
+(2, '0.012*"good" + 0.010*"place" + 0.009*"food" + 0.009*"time" + 0.009*"order" + 0.008*"great" + 0.007*"servic" + 0.007*"get" + 0.006*"would" + 0.006*"like"')
+
+
+Topics for ('Seafood', 'Vegetarian'):
+(0, '0.012*"food" + 0.012*"place" + 0.011*"good" + 0.009*"order" + 0.008*"great" + 0.008*"like" + 0.007*"get" + 0.007*"time" + 0.006*"servic" + 0.006*"one"')
+(1, '0.007*"food" + 0.007*"good" + 0.006*"place" + 0.005*"like" + 0.005*"one" + 0.005*"great" + 0.005*"time" + 0.005*"restaur" + 0.005*"order" + 0.004*"tri"')
+(2, '0.013*"food" + 0.012*"good" + 0.009*"place" + 0.009*"like" + 0.008*"order" + 0.008*"servic" + 0.007*"time" + 0.007*"great" + 0.006*"one" + 0.006*"restaur"')
+
+
+Topics for ('Japanese', 'Sushi Bars'):
+(0, '0.022*"sushi" + 0.013*"good" + 0.013*"roll" + 0.012*"place" + 0.010*"like" + 0.009*"order" + 0.009*"food" + 0.009*"one" + 0.008*"servic" + 0.008*"great"')
+(1, '0.022*"sushi" + 0.015*"roll" + 0.014*"place" + 0.011*"food" + 0.011*"good" + 0.010*"order" + 0.010*"get" + 0.009*"like" + 0.007*"great" + 0.007*"servic"')
+(2, '0.018*"sushi" + 0.017*"place" + 0.012*"good" + 0.012*"roll" + 0.011*"food" + 0.010*"time" + 0.009*"order" + 0.008*"great" + 0.007*"restaur" + 0.007*"like"')
+
+
+Topics for ('Soup', 'Salad'):
+(0, '0.013*"food" + 0.013*"place" + 0.011*"good" + 0.009*"like" + 0.009*"great" + 0.009*"salad" + 0.008*"order" + 0.007*"get" + 0.007*"time" + 0.007*"sandwich"')
+(1, '0.017*"good" + 0.013*"place" + 0.012*"food" + 0.010*"salad" + 0.009*"order" + 0.009*"time" + 0.008*"love" + 0.008*"get" + 0.008*"like" + 0.007*"great"')
+(2, '0.007*"place" + 0.007*"food" + 0.005*"like" + 0.005*"good" + 0.004*"order" + 0.003*"great" + 0.003*"salad" + 0.003*"tri" + 0.003*"time" + 0.003*"pizza"')
+
+
+Topics for ('Soup', 'Vegetarian'):
+(0, '0.010*"food" + 0.007*"good" + 0.006*"place" + 0.006*"like" + 0.005*"time" + 0.005*"order" + 0.005*"chicken" + 0.005*"servic" + 0.004*"great" + 0.004*"realli"')
+(1, '0.016*"food" + 0.012*"place" + 0.012*"good" + 0.009*"like" + 0.008*"order" + 0.008*"great" + 0.007*"time" + 0.007*"get" + 0.006*"love" + 0.006*"one"')
+(2, '0.005*"food" + 0.005*"place" + 0.004*"good" + 0.004*"like" + 0.003*"great" + 0.003*"love" + 0.003*"order" + 0.003*"realli" + 0.003*"restaur" + 0.003*"servic"')
+
+
+Topics for ('Salad', 'Juice Bars & Smoothies'):
+(0, '0.013*"place" + 0.011*"good" + 0.010*"like" + 0.010*"food" + 0.009*"order" + 0.008*"great" + 0.007*"time" + 0.007*"salad" + 0.007*"tri" + 0.007*"one"')
+(1, '0.015*"food" + 0.015*"place" + 0.012*"good" + 0.009*"get" + 0.008*"order" + 0.008*"time" + 0.008*"love" + 0.007*"like" + 0.007*"great" + 0.006*"salad"')
+(2, '0.008*"place" + 0.005*"food" + 0.005*"good" + 0.005*"order" + 0.004*"like" + 0.004*"get" + 0.004*"great" + 0.004*"time" + 0.003*"love" + 0.003*"one"')
+
+
+Topics for ('Salad', 'Vegetarian'):
+(0, '0.016*"food" + 0.013*"place" + 0.012*"good" + 0.010*"like" + 0.008*"great" + 0.008*"order" + 0.008*"time" + 0.007*"love" + 0.007*"one" + 0.007*"get"')
+(1, '0.012*"good" + 0.012*"place" + 0.011*"food" + 0.009*"like" + 0.008*"great" + 0.007*"time" + 0.007*"salad" + 0.007*"servic" + 0.007*"order" + 0.006*"get"')
+(2, '0.019*"food" + 0.012*"place" + 0.012*"good" + 0.009*"order" + 0.009*"great" + 0.008*"salad" + 0.008*"one" + 0.007*"love" + 0.007*"get" + 0.006*"like"')
+
+
+Topics for ('Vegetarian', 'Indonesian'):
+(0, '0.017*"food" + 0.012*"good" + 0.011*"place" + 0.009*"like" + 0.009*"order" + 0.008*"great" + 0.008*"time" + 0.007*"love" + 0.006*"one" + 0.006*"get"')
+(1, '0.011*"place" + 0.010*"good" + 0.010*"food" + 0.008*"great" + 0.008*"like" + 0.006*"eat" + 0.006*"order" + 0.005*"tri" + 0.005*"time" + 0.005*"restaur"')
+(2, '0.016*"food" + 0.015*"place" + 0.010*"good" + 0.009*"like" + 0.007*"chicken" + 0.007*"great" + 0.007*"get" + 0.006*"time" + 0.006*"servic" + 0.006*"one"')

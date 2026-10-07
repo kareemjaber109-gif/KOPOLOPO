@@ -1,0 +1,727 @@
+,business_id,name,state,address,review_count,burger_total_reviews,burger_average_rating
+0,HaBkx5PwvbBpQ2iNCgHnVQ,Paul's Neighborhood Bar,WI,"2401 Parmenter St, Middleton, WI 53562",11,3,3.67
+1,Nj0vQjUYjaa7qbvZlEr2jQ,Club Tavern & Grille,WI,"1915 Branch St, Middleton, WI 53562",16,2,4.0
+2,yYIEKwgQUHJpySOcVdCAkg,Perkins Restaurant & Bakery,WI,"4863 Hayes Rd, Bluff Acres, Madison, WI 53704",8,1,4.0
+3,11yg-JMNCFowyIjJarzuDQ,Hardee's,WI,"4814 Annamark Dr, Madison, WI 53704",5,2,4.0
+4,oudTF4EN_C8thENGiTQf-w,Chili's,WI,"4344 E Towne Blvd, Madison, WI 53704",9,1,3.0
+5,JdCFcgw4yk4M1ZRhAhBIag,Applebee's,WI,"4710 E Towne Blvd, Madison, WI 53704",13,1,4.0
+6,HTplzElel_F_U_qhWuDKdg,Dexter's Pub,WI,"301 North St, Eken Park, Madison, WI 53704",53,9,3.44
+7,JJFoeKZXgi2_LeECDMkkoQ,Tip Top Tavern,WI,"601 N St, Emerson East, Madison, WI 53704",21,5,4.2
+8,j8nyAaN_w5t6wYv-ni23sg,Coach & Willies,AZ,"412 S 3rd St, Phoenix, AZ 85004",79,12,3.33
+9,muCl5p-9ut1sY0aKeUeRhw,Cheuvront,AZ,"1326 N Central Ave, Phoenix, AZ 85004",189,2,3.0
+10,jn3OgTqiQIFymRA9U0PTfQ,Arizona Baseball Club Restaurant,AZ,"401 E Jefferson St, Phoenix, AZ 85004",6,1,3.0
+11,5-X03Zc0nN7U5eoe8uFUdw,Coronado Cafe,AZ,"2201 N 7th St, Phoenix, AZ 85006",175,25,3.76
+12,Pfb6VOIiroqDWOebfgWGPQ,Phoenix City Grille,AZ,"5816 N 16th St, Phoenix, AZ 85016",197,30,4.1
+13,rJ7HH85lo0wTNr5BiYGQ4Q,Adobe Restaurant-Arizona Biltmore Golf Club,AZ,"2400 E Missouri Ave, Phoenix, AZ 85016",15,3,2.0
+14,2r8jGeuYvMkyP2ik_X-Bxw,The Cheesecake Factory,AZ,"2402 East Camelback, Space #101, Phoenix, AZ 85016",144,13,3.54
+15,Ta-fY1c_E8qHBBDQGyxPkg,Bistro 24,AZ,"The Ritz-Carlton, Phoenix, 2401 East Camelback Road, Phoenix, AZ 85016",29,1,5.0
+16,yPfvOB63thP5t3pGZPJExA,The Wrigley Mansion Club,AZ,"2501 E Telewa Trl, Phoenix, AZ 85016",112,7,3.86
+17,Vu8od1U-h5qqwj3Jf_Hnzg,Souper Salad,AZ,"2045 E Camelback Rd, Phoenix, AZ 85016",15,1,4.0
+18,zMa6YoEekpABg1HZnnTZdg,Hillstone,AZ,"2650 E Camelback Rd, Phoenix, AZ 85016",319,62,4.18
+19,fVgrpVyp-nPLTac9YIjTug,T Cook's Restaurant,AZ,"Royal Palms Resort and Spa, 5200 E Camelback Rd, Phoenix, AZ 85018",191,7,4.29
+20,2gMx4KnXbNtpoCuVCmyo3g,Coco's Restaurant,AZ,"4601 E Thomas Rd, Phoenix, AZ 85018",11,1,2.0
+21,adEJYiysRmK8eDqnHP9N6A,Carl's Jr 7091,AZ,"2343 E Bell Rd, Phoenix, AZ 85022",6,3,3.33
+22,kvxrjOmicwb2njvXOJsZRw,Ammaccapane's Restaurant & Sports Bar,AZ,"13470 N 7th St, Phoenix, AZ 85022",17,2,5.0
+23,UpYva_zhJ6pRGfdTruIYIg,California Pizza Kitchen,AZ,"21001 N. Tatum Blvd, Ste 40-1370, Phoenix, AZ 85050",56,2,2.5
+24,QzXFdjIbFRGhzL83goPPLA,Elephant Bar Restaurant,AZ,"7000 E. Mayo Blvd., Suite 27, Phoenix, AZ 85054",96,10,3.4
+25,9ocGgALmbzTZWOS7f7SYcA,Old Country Buffet,AZ,"1855 S Stapley Dr, Mesa, AZ 85204",22,1,4.0
+26,H3rEy4UWRp6BfoWER4MSCA,Jack In the Box,AZ,"1911 S Power Rd, Mesa, AZ 85206",3,1,3.0
+27,g8ewG8o0ubTUTAUDj7UZLQ,Pub'n Grub,AZ,"2815 S Alma School Rd, Ste 101, Mesa, AZ 85210",11,3,4.67
+28,JNEeWjajyZPrwMb1cYi_pg,Creative Cafe,AZ,"1420 N Trekell Rd, Casa Grande, AZ 85222",41,7,4.71
+29,1Duul3qCnLrNak1Np-iHfw,Pita Jungle,AZ,"1949 W Ray Rd, Chandler, AZ 85224",228,17,3.71
+30,78IaYCf9ktUep4UhhjXbTg,The Cheesecake Factory,AZ,"3111 W Chandler Blvd, Suite 2100, Chandler, AZ 85226",137,13,3.46
+31,-vHWAsiX0iHWJw-pkqv32Q,Kona Grill,AZ,"3111 W Chandler Blvd, Chandler Fashion Center, Chandler, AZ 85226",134,5,3.2
+32,IMGW6y8wHQCfr_6k-YXg_A,BJ's Restaurant & Brewhouse,AZ,"3155 W.Chandler Blvd., Chandler, AZ 85226",174,23,3.96
+33,xuEsUDFIWIEnBXvj1EBXlw,Crabby Don's Bar & Grill,AZ,"3861 E Baseline Rd, Ste K139, Gilbert, AZ 85234",28,2,3.5
+34,L9UYbtAUOcfTgZFimehlXw,Liberty Market,AZ,"230 N Gilbert Rd, Gilbert, AZ 85234",603,75,4.32
+35,68_EJEA9Ibo55EDp3d-nOg,Randy's Restaurant & Ice Cream,AZ,"7904 E Chaparral Rd, Scottsdale, AZ 85250",95,6,4.0
+36,kYQxOeJRFYats6cxVFnILw,FOX Sports Grill,AZ,"16203 N Scottsdale Rd, Scottsdale, AZ 85254",30,5,2.8
+37,ewZlgc22xN5NNQ1H7U6Y7g,The Cheesecake Factory,AZ,"15230 N Scottsdale Rd, Scottsdale, AZ 85254",121,9,2.78
+38,-fsCfTYEnJ4s6yStgBnQig,Farrelli's Cinema Supper Club,AZ,"14202 N Scottsdale Rd, Scottsdale, AZ 85254",46,5,3.8
+39,d840tbYJSVn8Fu-n5XRJTw,Handlebar-J,AZ,"7116 E Becker Ln, Scottsdale, AZ 85254",51,1,4.0
+40,E5dqlvxPw9Q4XFqOMw_lqw,Dragonfly Cafe,AZ,"10135 E Via Linda, Scottsdale, AZ 85258",70,2,4.0
+41,QVR7dsvBeg8xFt9B-vd1BA,K'O Donnell's Sports Bar & Grill,AZ,"14850 N Northsight Blvd, Scottsdale, AZ 85260",136,22,4.36
+42,LzNJLEIo4gh-X_rmDkNkNg,Four Peaks Grill & Tap,AZ,"15745 N Hayden Rd, Ste D5-7, Scottsdale, AZ 85260",306,60,4.12
+43,n4mfUCDXHsg0GH50HzJpug,Rock Bottom Restaurant & Brewery,AZ,"8668 E Shea Blvd, Scottsdale, AZ 85260",24,4,3.25
+44,nzJxNn-tKG7kw_zf7xaYbg,Top of the Rock,AZ,"2000 W Westcourt Way, Tempe, AZ 85282",91,1,2.0
+45,Btmq4WdwevpVWTPjhzf1YQ,Teakwood Tavern and Grill - Gilbert,AZ,"151 E Williams Field Rd, Ste 112, Gilbert, AZ 85296",73,17,3.59
+46,Tlp5G-slaW4XKRxhgjaCpA,TGI Friday's,AZ,"1559 N Litchfield Rd, Goodyear, AZ 85338",14,1,4.0
+47,ifbMLSdB-VWs0wEN6UzBcQ,Wendy's Old Fashioned Hamburgers,AZ,"1178 N Litchfield Rd, Goodyear, AZ 85338",10,3,1.33
+48,ADJIoHN3uLx-JalYl3r3Dw,The Cheesecake Factory,AZ,"16134 North 83rd Avenue, Peoria, AZ 85382",94,10,3.7
+49,1eJ0pC6UrQVkDSflgrs0Fw,Elephant Bar Restaurant,AZ,"16160 No 83rd Ave, Peoria, AZ 85382",57,7,2.29
+50,ltAPE16jLxC-BAnHhcI9CQ,Country Kitchen,AZ,"495 E Wickenburg Way, Wickenburg, AZ 85390",9,1,3.0
+51,o-DRmVihuTjS3x9OXSj0tw,Shugrues Hillside Grill,AZ,"671 Hwy 179, Sedona, AZ 86326",88,6,2.83
+52,uQ9l0maZVCwD4mRo2rFekQ,Brando's Grill & Bar,NV,"2801 N Green Valley Pkwy, Henderson, NV 89014",8,3,3.0
+53,2lCxj6koowOOZ2pCdDUtZQ,Santora's,NV,"4401 E Sunset Rd, Henderson, NV 89014",11,2,3.0
+54,2XQzbeFSKuhOiJujH01o-g,Town Center Lounge II,NV,"2992 W Cheyenne Ave, North Las Vegas, NV 89032",6,1,3.0
+55,DfNoB509sMpMbu-qvsgvrA,Chili's Grill & Bar,NV,"10080 S Eastern Ave, Anthem, Henderson, NV 89052",38,4,1.5
+56,VCy6IWtJ-SR6hY9xrmfF_Q,Black Mountain Grill,NV,"11021 S Eastern Ave, Anthem, Henderson, NV 89052",74,10,3.1
+57,Xo7K1LugLnT4pGc5TtwHRA,TGI Friday's,NV,"4570 W Sahara Ave, Westside, Las Vegas, NV 89102",46,8,3.62
+58,dH3rJa4JSxmlyAwg8kPLOQ,Denny's,NV,"1826 Las Vegas Blvd S, The Strip, Las Vegas, NV 89104",27,1,4.0
+59,a9Z5KKEDaC4Y4MHiRZhzzA,PT's,NV,"5355 S Decatur Blvd, Las Vegas, NV 89118",12,1,4.0
+60,NNSDXtjgNUNAgQH99R0yWw,PT's,NV,"3470 E Sunset Rd, Southeast, Las Vegas, NV 89120",11,1,3.0
+61,56Ulj9IFRp5Pz8ufJSHXBg,PT's,NV,"8584 W Lake Mead Blvd, Summerlin, Las Vegas, NV 89128",5,1,3.0
+62,KJnVuzpveyDrHARVNZaYVg,Hooters Casino Hotel,NV,"115 E Tropicana Ave, Southeast, Las Vegas, NV 89109",690,17,2.29
+63,y93QKoRHJmaBL-x_OkNuyg,Draft House Bar & Restaurant,WI,"1010 Enterprise Dr, Verona, WI 53593",22,5,3.0
+64,pS5WsUlWOVAPM0S2rVI-SQ,Vintage Spirits & Grill,WI,"529 University Ave, Capitol, Madison, WI 53703",31,5,3.4
+65,2vsPceME9rHNZ9OkR5zrpg,The Paradise Lounge,WI,"119 W Main St, Capitol, Madison, WI 53703",40,10,4.2
+66,_z9UrC5hCTBK1JIgQD0YDw,Noodles & Company,WI,"232 State St, Capitol, Madison, WI 53703",34,1,5.0
+67,Ihd6mI4cfXzIwcMSXZnhnA,Tony Frank's Tavern,WI,"1612 Seminole Hwy, Madison, WI 53711",18,12,3.58
+68,oZaCeojhVeBMvcjk_bFDag,Feiler's Food & Cocktails,WI,"4506 Verona Rd, Madison, WI 53711",8,2,3.0
+69,xG7wiKZC0Yu_ZpZtnLC91Q,Chili's Grill & Bar,WI,"7301 Mineral Point Rd, Madison, WI 53717",16,1,3.0
+70,ZZkubP-TCzbGuEOEzZno-A,Quivey's Grove,WI,"6261 Nesbitt Rd, Fitchburg, WI 53719",74,8,3.38
+71,PdRzCJWP7nPdYoHPdd5SOQ,Portland's Restaurant & Wine Bar,AZ,"105 W Portland St, Phoenix, AZ 85003",92,25,3.56
+72,8SoWH_iOdZD1OvebCwJUbg,Dennys,AZ,"3456 W Bethany Home Rd, Phoenix, AZ 85017",14,1,1.0
+73,w3auuIZmKCdk2UvQbonyMQ,Midwestern Meats,AZ,"4308 E Main St, Mesa, AZ 85205",60,18,3.67
+74,0BScRHEa2lVBCY4spkhmvQ,Grille At Las Sendas Golf Club,AZ,"7555 E Eagle Crest Dr, Mesa, AZ 85207",11,1,3.0
+75,xkiVHfXb0QsuXp8HRzWWGw,First Round Draft,AZ,"1520 W Warner Rd, Ste 112, Gilbert, AZ 85233",27,2,2.0
+76,faSdsW2s_SaVN0KTy-R2MQ,L'academie,AZ,"4301 N Scottsdale Rd, Scottsdale, AZ 85251",8,1,3.0
+77,A8Khz3eeqIFFGaXurg3hxw,Rusty Spur Saloon,AZ,"7245 E Main St, Scottsdale, AZ 85251",92,4,3.75
+78,FV0BkoGOd3Yu_eJnXY15ZA,Cowboy Ciao,AZ,"7133 E Stetson Dr, Ste 1, Scottsdale, AZ 85251",492,15,4.0
+79,sYZt3f1YFlg0ycDMyO-vJw,The Blue Moose,AZ,"7373 E Scottsdale Mall, Scottsdale, AZ 85251",48,6,3.5
+80,o4DsvwwD2kIbF-EM4r9G8A,Drift Lounge,AZ,"4341 N 75th St, Scottsdale, AZ 85251",58,1,3.0
+81,aDBT5MB0L2JCUo3kqgFRJw,Karsen's Grill,AZ,"7246 E 1st St, Ste 101, Scottsdale, AZ 85251",64,13,4.31
+82,z6vO1HR8L2iW4avr610XKw,The Grapevine,AZ,"4013 N Brown Ave, Scottsdale, AZ 85251",120,6,2.5
+83,7QSYBp2-AOdyUJXEaLnbgA,Bandera,AZ,"3821 N Scottsdale Rd, Scottsdale, AZ 85251",302,18,4.39
+84,AZAd_Zhv4UiJZ1x2FRPqIA,Pinon Grill,AZ,"7401 N Scottsdale Rd, Scottsdale, AZ 85253",15,1,2.0
+85,2OY8xs4aqOt8eTnYokdrww,Elements,AZ,"5700 E McDonald Dr, Paradise Valley, AZ 85253",255,5,3.8
+86,7lp13T_FUmX1XjU2wen_qw,Razz's Restaurant & Catering,AZ,"10315 N Scottsdale Rd, Scottsdale, AZ 85253",84,1,5.0
+87,2JZv-P1lDKOPKvefQlYDEQ,Village Tavern,AZ,"The Shops At Gainey Village, 8787 N Scottsdale Rd, Scottsdale, AZ 85258",119,23,3.83
+88,dyd81TK9jY-WLt6UbMFWng,Atlas Bistro,AZ,"2515 N Scottsdale Rd, Ste 18, Scottsdale, AZ 85257",76,1,4.0
+89,JokKtdXU7zXHcr20Lrk29A,Four Peaks Brewing Co,AZ,"1340 E 8th St, Ste 104, Tempe, AZ 85281",1110,207,4.32
+90,jJ2aoxyQjUKYCwWOKO4uPw,Grilled Expedition On Mill Cafe,AZ,"740 S Mill Ave, Tempe, AZ 85281",5,1,2.0
+91,TzImzfIWkZTnetKl2a4-SQ,Gordon Biersch Brewery Restaurant,AZ,"420 S Mill Ave, Ste 201, Tempe, AZ 85281",192,26,2.96
+92,eGevCRobYnA_HSj60sEWvQ,Pita Jungle,AZ,"1250 E. Apache Blvd., Tempe, AZ 85281",323,23,4.13
+93,7kAXbY8hjHhC-nZKR2Embg,ASU Karsten Golf Course,AZ,"1125 E Rio Salado Pkwy, Tempe, AZ 85281",25,2,4.5
+94,EKzMHI1tip8rC1-ZAy64yg,House of Tricks,AZ,"114 E 7th St, Tempe, AZ 85281",419,7,4.14
+95,iNT6pcUugoXsDlZgRTyhtw,Caffe Boa,AZ,"398 S Mill Ave, Tempe, AZ 85281",356,16,2.81
+96,TehSM5JrMRikSnjnnfulbw,Tonto Bar & Grill,AZ,"5736 E Rancho Manana Blvd, Cave Creek, AZ 85331",90,14,3.86
+97,txOMZiCpQwI4qydicluM3g,Dennys,AZ,"8737 W Grand Ave, Peoria, AZ 85345",4,1,5.0
+98,rhN7xg5XzvRKvdAXE9lBtA,Q Bar and Grill,AZ,"6750 W Olive Ave, Ste 102, Peoria, AZ 85345",18,1,4.0
+99,cyxnQ6EocFbAENe7nRwx4Q,Mercer's Restaurant,AZ,"9720 W Peoria Ave, Peoria, AZ 85345",18,1,2.0
+100,Cd6B3ErSmNwTjDlju_lU3g,Carefree Station,AZ,"Spanish Village, 7212 Ho Hum Rd, Carefree, AZ 85377",82,2,3.0
+101,GoS_IBdFdjZrQ7J2LSrCMA,Wild Horse West,AZ,"8415 W Carefree Hwy, Peoria, AZ 85383",13,10,4.0
+102,R13Yzsye39_1StxO0X1Flg,Campbell Mercantile Cafe,AZ,"9098 W Pinnacle Peak Rd, Peoria, AZ 85383",3,2,3.0
+103,CE85IKRDS4GimIaoIp3N5A,Rainbow Club & Casino,NV,"122 S Water St, Henderson, NV 89015",80,6,4.5
+104,qiblsXkj0dEWtoaXx9tE9Q,Northstar Bar & Grill,NV,"5150 Camino Al Norte, North Las Vegas, NV 89031",10,3,4.0
+105,smoGuW2a2Nume83mB3JJSw,Applebee's Neighborhood Grill & Bar,NV,"820 E Warm Springs Rd, Southeast, Las Vegas, NV 89119",28,2,1.0
+106,Q5pTGQKEhxgit1fwgrHEbg,Binion's Hotel & Casino,NV,"128 Fremont St, Downtown, Las Vegas, NV 89101",117,7,3.0
+107,OvE1oiSg9gaB9cLGzBPlnw,Four Kegs Sports Bar,NV,"276 N Jones Blvd, Ste B, Las Vegas, NV 89107",243,8,3.75
+108,QvRK2dyv4EDxuJ-LuodE2Q,Gordon Biersch Brewery Restaurant,NV,"3987 Paradise Rd, Eastside, Las Vegas, NV 89169",189,34,3.41
+109,QJlab4DqvBRJPUfg7Vn5ZQ,Spago,NV,"The Forum Shops at Caesars, 3500 Las Vegas Blvd S, Ste G1, The Strip, Las Vegas, NV 89109",658,17,3.82
+110,xBSQ3xs6qSIEr07WM4ho5A,Simon Kitchen and Bar,NV,"Hard Rock Hotel and Casino, 4455 Paradise Rd, The Strip, Las Vegas, NV 89109",14,1,4.0
+111,76t_NE9GQthoryLZgDyxGg,Caribe Café,NV,"The Mirage, 3400 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",22,4,3.0
+112,88CNSyeoKhGn1x0SHvz8Ig,Postrio,NV,"The Grand Canal Shoppes at The Venetian, 3377 Las Vegas Blvd S, Ste 2410, The Strip, Las Vegas, NV 89109",352,25,3.4
+113,MWkIQNT5ewKwMfKbixgb6Q,California Pizza Kitchen,NV,"3200 Las Vegas Blvd, Sp#1590, The Strip, Las Vegas, NV 89109",76,1,5.0
+114,8xH3A2heV5oIFn3EXu7AcA,Maverick Truck Stop,NV,"3225 Las Vegas Blvd N, Sunrise, Las Vegas, NV 89115",9,2,4.0
+115,N8NiWbLzee9EOeMnz2MOlw,Claim Jumper,NV,"1100 S Fort Apache Rd, Westside, Las Vegas, NV 89117",118,13,2.54
+116,_UsqOvmgoNzb_0xWpzwZBg,Chicago Brewing Company,NV,"2201 S Fort Apache Rd, Westside, Las Vegas, NV 89117",212,23,3.61
+117,6P3SsceAMT39CBlo0upqHQ,Mad Matty's Bar & Grille,NV,"8100 W Sahara Ave, Westside, Las Vegas, NV 89117",20,6,4.17
+118,wH8J9TI8ReocYZ3N2W04bw,Marie Callenders Restaurant & Bakery,NV,"8175 W Sahara Ave, Westside, Las Vegas, NV 89117",42,3,3.33
+119,5FE1Y9cZ-YOQA943nTi7cA,Rosemary's Restaurant,NV,"8125 W Sahara Ave, Ste 110, Westside, Las Vegas, NV 89117",323,2,2.0
+120,OaiGAZoW7TQyHfKJAgu5ZQ,PT's,NV,"1661 E Sunset Rd, Southeast, Las Vegas, NV 89119",21,1,5.0
+121,w4gafqTSIkBjqPufGEEh6Q,Blue Ox Central,NV,"6000 S Eastern Ave, Southeast, Las Vegas, NV 89119",25,3,3.67
+122,xUnM3aQI3BIw_zNU8cBgEA,Cili Fine Dining,NV,"5160 Las Vegas Blvd S, Southeast, Las Vegas, NV 89119",26,1,4.0
+123,vPFiYlgyTpoqonN3rZkJhg,PT's,NV,"4310 E Tropicana Ave, Eastside, Las Vegas, NV 89121",11,2,3.0
+124,Tc--MNuXGt6ggLzTX4LnOw,Mulligan's Border Bar & Grill,NV,"1235 E Pebble Rd, Southeast, Las Vegas, NV 89123",14,3,4.0
+125,5oaHZw1g-Rbiianma5zU5g,PT's,NV,"582 E Silverado Ranch Blvd, Southeast, Las Vegas, NV 89123",22,1,4.0
+126,co0vxQ8ecXiBy2sGDeHi8A,Jamms Restaurant,NV,"1029 S Rainbow Blvd, Westside, Las Vegas, NV 89145",298,7,3.57
+127,QgeyXkZKSOIS_85pDIVuQQ,Sedona Lounge,NV,"9580 W Flamingo Rd, Spring Valley, Las Vegas, NV 89147",177,8,3.12
+128,vGm5HVOg8M-I7lzAFLzrcg,PT's,NV,"3935 S Durango Dr, Spring Valley, Las Vegas, NV 89147",17,1,4.0
+129,NERLJXacJ3b6peiZ8ceeqA,Hubbard Avenue Diner,WI,"7445 Hubbard Ave, Middleton, WI 53562",107,18,3.61
+130,aRkYtXfmEKYG-eTDf_qUsw,Lux,AZ,"4402 N Central Ave, Phoenix, AZ 85012",747,6,5.0
+131,E28ht8IEiO6FZbKktSo0Xw,Tommy Bahama Restaurant & Bar - Scottsdale,AZ,"15205 North Kierland Boulevard, 100, Scottsdale, AZ 85254",161,6,3.83
+132,rP76z9iDOFczywAiee-l7A,Red Square Restaurant & Vodka Lounge,NV,"3950 Las Vegas Blvd S, The Strip, Las Vegas, NV 89119",405,6,2.83
+133,H6CJflwclNpttYrtsBMsVg,Emeril's New Orleans Fish House,NV,"MGM Grand Hotel and Casino, 3799 Las Vegas Blvd S, Eastside, Las Vegas, NV 89109",542,13,3.77
+134,xyTJYlbE_MLouK6rCou6zg,Burger Bar,NV,"Mandalay Bay Resort & Casino, 3930 S Las Vegas Boulevard, The Strip, Las Vegas, NV 89119",1876,1600,3.93
+135,Z3qmQ6N4VEudR45exSHrTg,Mickey's Tavern,WI,"1524 Williamson St, Williamson - Marquette, Madison, WI 53703",103,18,4.33
+136,PrgdIc0zK9nc8jo8I18x8A,Argus,WI,"123 E Main St, Capitol, Madison, WI 53703",29,4,4.25
+137,3x_CqRwRgiHczkqPGAwacA,Orpheum Lobby Restaurant,WI,"216 State St, Capitol, Madison, WI 53703",21,1,5.0
+138,N8Q2s-Snz2vL79zB3rEEug,Weary Traveler ,WI,"1201 Williamson St, Williamson - Marquette, Madison, WI 53703",270,99,4.03
+139,5IWu0xhlZEopvIz3w7o_3w,Palm Restaurant,NV,"Caesar's Palace, 3500 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",370,16,3.62
+140,HbUQ_3dlm3uCacmhTEMnuA,Tom Colicchio's Craftsteak,NV,"MGM Grand Hotel and Casino, 3799 Las Vegas Blvd S, Eastside, Las Vegas, NV 89109",1413,7,4.43
+141,WhBxWYRj6rycigYqdXY9cA,Great Dane Pub & Brewing Co,WI,"123 E Doty St, Capitol, Madison, WI 53703",406,99,3.93
+142,aSZzH68--YxNQYAO5nKBkA,Foundation Room,NV,"Mandalay Bay Hotel and Casino, 3950 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",267,2,4.5
+143,jOuERtVf7QePnK9ZcdH5XA,Grand Lux Cafe,NV,"The Venetian Hotel & Casino, 3355 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",1497,180,4.0
+144,M2SjLXsuAy5RNKwxaA5E1g,House of Blues,NV,"Mandalay Bay Hotel, 3950 Las Vegas Blvd S, The Strip, Las Vegas, NV 89119",462,31,3.29
+145,nQK95GJD_KB-bc_g14bD9g,Mermaid Cafe,WI,"1929 Winnebago St, Schenk - Atwood, Madison, WI 53704",31,3,4.33
+146,dsMvINhoQbIQgSRTBv2B6g,Caffe Boa Ahwatukee,AZ,"5063 E Elliot Rd, Phoenix, AZ 85044",93,2,3.0
+147,ABrSt3fsirLrUYNVrD3fbQ,The Greene House,AZ,"15024 N Scottsdale Rd, Ste 100, Scottsdale, AZ 85254",201,20,3.6
+148,EWMwV5V9BxNs_U6nNVMeqw,FEZ,AZ,"3815 N Central Ave, Phoenix, AZ 85012",1046,398,4.22
+149,5rtC3OBCIq0WKVoKH--GCg,Bradley Ogden,NV,"Caesars Palace, 3570 Las Vegas Blvd, The Strip, Las Vegas, NV 89109",198,58,4.12
+150,fq3TCuBBaKtRnibcSoRHpQ,T.G.I. Friday's,AZ,"2501 W Happy Valley Rd, Phoenix, AZ 85027",34,2,2.5
+151,1nO6ffHEwZYFBzEsyw1w7w,FIX,NV,"Bellagio, 3600 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",367,38,3.61
+152,ZNdsRbGeOfrYYPRl6AziCQ,Michael Mina,NV,"Bellagio Resort &Casino, 3600 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",370,1,5.0
+153,aGulqXnFmpOh_5Qh96uBng,Alex,NV,"Wynn Las Vegas, 3131 Las Vegas Blvd S, Eastside, Las Vegas, NV 89109",128,1,3.0
+154,vaq5SJubaZjIoGhgkwxxUA,Terrace Pointe Café,NV,"3131 Las Vegas Blvd. South, The Strip, Las Vegas, NV 89109",366,47,3.47
+155,i2gLXa-MSAS-9oU8K_rnYQ,Bloom,AZ,"8877 N Scottsdale Rd, Ste 402, Scottsdale, AZ 85253",79,3,4.33
+156,tdeHd2AVYlEnz9F1UGb84Q,ZuZu at Hotel Valley Ho,AZ,"6850 E Main St, Scottsdale, AZ 85251",202,24,3.75
+157,UL3OMN_c-NXHlyb97pDifA,Yard House,AZ,"7014 East Camelback Rd, Scottsdale, AZ 85251",246,25,3.92
+158,GJp4zTQPPsCEkUitopGfAQ,Stack Restaurant & Bar,NV,"The Mirage Resort and Casino, 3400 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",380,33,3.67
+159,Ez2MFsVT5lJZ05yvK_0AXQ,Pita Jungle,AZ,"7366 E. Shea Blvd., Scottsdale, AZ 85260",286,20,4.25
+160,4waggbCK-MSE9dbIdSMfPA,Compass Arizona Grill,AZ,"The Hyatt Regency, 122 N Second St, Phoenix, AZ 85004",135,1,4.0
+161,qXG8IlKuvy5k9fJ3y2gLgg,Nobhill Tavern by Michael Mina,NV,"3799 Las Vegas Blvd S, Eastside, Las Vegas, NV 89109",322,28,3.86
+162,rXEGCpdboVwczMIDZuXXaA,Sardine,WI,"617 Williamson St, Williamson - Marquette, Madison, WI 53703",191,10,4.7
+163,rZbHg4ACfN3iShdsT47WKQ,Bobby Q,AZ,"8501 N 27th Ave, Phoenix, AZ 85051",720,48,4.62
+164,45CkLZEIYK4KLDAb5GvxEg,Elephant Bar Restaurant,NV,"2270 Village Walk Dr, Anthem, Henderson, NV 89052",158,14,3.14
+165,UpMR63WZgIn8VDKnYpDwXA,Cafe Bellagio,NV,"Bellagio Resort &Casino, 3600 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",447,62,3.11
+166,Ydc74ermKp1L4fYOrPvzXw,Stoudemire's Downtown,AZ,"3 S 2nd St, Phoenix, AZ 85004",18,1,3.0
+167,aUHHfCiFtGhN5R6KXCsBKw,Fenix Eatery & Bar,AZ,"3943 E Camelback Rd, Phoenix, AZ 85018",11,1,1.0
+168,uCoNIQty4nPrhn_WHo110A,The Cheesecake Factory,NV,"3500 South Las Vegas Blvd., The Strip, Las Vegas, NV 89109",272,18,3.33
+169,xfwRO04KbAPw_zRotCfWQQ,Hash House A Go Go,NV,"6800 W Sahara Ave, Westside, Las Vegas, NV 89146",2201,147,3.89
+170,_oBxfuBd2qDEWaYsdvP_dg,Gordon Biersch Brewery Restaurant,AZ,"6915 N 95th Ave, Glendale, AZ 85305",91,12,2.83
+171,NK-8zniVfA21IQoQCynrDg,America,NV,"New York New York Hotel & Casino, 3790 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",234,19,2.68
+172,cdacUBBL2tDbDnB1EfhpQw,Cafe Carumba,AZ,"7303 E Indian School Rd, Scottsdale, AZ 85251",67,6,3.33
+173,53YGfwmbW73JhFiemNeyzQ,Olive & Ivy,AZ,"7135 E Camelback Rd, Ste 195, Scottsdale, AZ 85251",654,6,3.33
+174,-yxfBYGB6SEqszmxJxd97A,Quiessence Restaurant,AZ,"6106 S 32nd St, Phoenix, AZ 85042",128,3,4.33
+175,RDX_MLThtKVPb22TvJh9rQ,7th Heaven Eatery,AZ,"2501 E Camelback Rd, Phoenix, AZ 85016",10,1,3.0
+176,WS1XuIez_2KP-3RJD-r9kg,THEcafe at THEhotel,NV,"Mandalay Bay Resort and  Casino, 3950 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",123,6,3.67
+177,kFmud3f8H8GSO8eeHDNfrA,Table 34,NV,"600 E Warm Springs Rd, Southeast, Las Vegas, NV 89119",92,3,4.0
+178,irNhzcao8kH6XkNeE916zA,Fusion Restaurant and Lounge,AZ,"4441 N Buckboard Trl, Scottsdale, AZ 85251",6,2,5.0
+179,_fcEpudbiTB4o9wLJ-egTA,Grand Café,NV,"Green Valley Ranch Resort & Spa, 2300 Paseo Verde Pkwy, Anthem, Henderson, NV 89052",48,2,3.5
+180,4uDW2Rp9eAPL5BUd5C5-bA,Kona Grill,NV,"750 S Rampart Blvd, Westside, Las Vegas, NV 89145",311,15,3.47
+181,G05ZBbJG1anbt7sOE4GjgA,Regal Beagle,AZ,"6045 W Chandler Blvd, Ste A7, Chandler, AZ 85226",9,2,3.5
+182,eyYyJ2aOOo0sLHU_ThextQ,Zodie's,NV,"3055 E Flamingo Rd, Eastside, Las Vegas, NV 89121",6,1,4.0
+183,K8H3xHHqQU4ptS-KMU1Rpg,Chaser's Bar and Grille,WI,"319 W Gorham St, Capitol, Madison, WI 53703",25,4,1.75
+184,BW1JCE3Qj4uIokg7kLUL7w,Wolfgang Puck Bar and Grill,NV,"MGM Grand Hotel and Casino, 3799 Las Vegas Blvd S, Eastside, Las Vegas, NV 89109",767,84,4.0
+185,8cL7aJVKTYmLguzXEAS3Lw,Yard House,AZ,"21001 North Tatum Blvd, Phoenix, AZ 85050",208,33,3.73
+186,zG_wv69bsllw_PWhOmoAKQ,Tarbell's,AZ,"3213 E Camelback Rd, Phoenix, AZ 85018",160,2,4.5
+187,fZVZeZJkziJ7B1rIcmT3Iw,Sierra Gold,NV,"6515 S Jones Blvd, Spring Valley, Las Vegas, NV 89118",116,7,3.29
+188,hJVt1P4FOvj-soabliLdaA,Rock-n-Roll Fingers,AZ,"937 E Broadway, Tempe, AZ 85282",89,2,5.0
+189,vEeiIvhzz29rO-6EPFqkjQ,Tableau,NV,"3131 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",207,12,3.58
+190,yJMLD-6AggZNdC-GonVBsA,Binkley's,AZ,"6920 E Cave Creek Rd, Cave Creek, AZ 85331",171,3,2.0
+191,wJ-JsU531VcSKta0oFh15Q,D'Vine Bistro & Wine Bar,AZ,"2837-101 N Power Rd, Ste 101, Mesa, AZ 85207",82,3,4.67
+192,tg1xGdWUMX02XD6AVb-kxw,Gray's Tied House,WI,"950 Kimball Ln, Verona, WI 53593",41,15,3.53
+193,AGLuEB0Tqy2gvuyRT2tnlg,Cafe Bistro,AZ,"5101 N Scottsdale Rd, Scottsdale, AZ 85250",3,1,5.0
+194,w19cemjVR8u02PgjFpJ7Mw,Pita Jungle,AZ,"4340 E. Indian School Rd., Phoenix, AZ 85018",242,17,3.76
+195,bNOx8Q50Q6bLxjSBmQDpwg,Bob's Big Boy,NV,"7125 N Durango, Centennial, Las Vegas, NV 89149",6,1,1.0
+196,zORdAIouXrGO1yU4sIMweg,BJ's Restaurant & Brewhouse,NV,"10840 West Charleston, Summerlin, Summerlin, NV 89135",240,34,3.76
+197,H0QkByri08NTgd8KEdyCsw,Extreme Pita,AZ,"777 S College Ave, Tempe, AZ 85281",7,1,3.0
+198,YyYQgZR-6bG0gSZlsM20uA,Waters Edge Restaurant,AZ,"13014 N Saguaro Blvd, Fountain Hills, AZ 85268",5,1,5.0
+199,yMhjh0ASFZscz0QlLxAj0w,Native New Yorker Restaurant,AZ,"23706 S Power Rd, Queen Creek, AZ 85142",19,2,1.0
+200,7TMf1NuuAdvhG7IojZSKnw,Zipps Sports Grill,AZ,"3950 W Ray Rd, Chandler, AZ 85226",92,25,3.8
+201,DAIBZ-I6i5wEUsxEolzXBA,Chick-fil-A,AZ,"16657 N 83rd Ave, Peoria, AZ 85382",60,1,5.0
+202,R1ySBCVS2eQf-s0Z4ifIug,The Gilbert House,AZ,"397 S Gilbert Rd, Gilbert, AZ 85296",102,3,4.0
+203,uyg5_fHXJe837GXd-4yiSQ,Native New Yorker,AZ,"21164 N John Wayne Pkwy, Maricopa, AZ 85239",51,4,2.25
+204,uKSX1n1RoAzGq4bV8GPHVg,St Francis Restaurant,AZ,"111 E Camelback Rd, Phoenix, AZ 85012",743,100,4.03
+205,VXivZOUYeKBFFab9JVHOSA,The Market By Jennifer's,AZ,"3603 E Indian School Rd, Ste A, Phoenix, AZ 85018",39,2,3.0
+206,6TH_CEK34v6vwHE3BBMkpg,Long Wong's,AZ,"1455 S Stapley Dr, Mesa, AZ 85204",30,4,2.75
+207,XgfKcL7eBJE9B66qoaIlJQ,Freed's Bakery,NV,"9815 S Eastern Ave, Southeast, Las Vegas, NV 89183",253,1,4.0
+208,xx8DVj1NQfJR33B9e8t5vg,Fireside Restaurant & Tavern,NV,"1785 E Cactus Ave, Southeast, Las Vegas, NV 89183",51,7,4.43
+209,yXtCzVqUR6WYARQdawyevw,Charlie Palmer Steak,NV,"3960 S Las Vegas Boulevard, The Strip, Las Vegas, NV 89119",216,1,1.0
+210,Pz7SWZQhxL6ZbhL9jE2NTA,MIX,NV,"Mandalay Bay Resort & Casino, 3950 Las Vegas Boulevard, The Strip, Las Vegas, NV 89119",878,7,4.0
+211,-8NkeBMgbGX97In5NEZtqA,Quark's Bar & Restaurant,NV,"Star Trek The Experience, 3000 Paradise Rd, Eastside, Las Vegas, NV 89109",42,1,1.0
+212,P8-k3G0pCBmOcfNaA63oLg,PT's,NV,"310 E Warm Springs Rd, Southeast, Las Vegas, NV 89119",6,1,3.0
+213,iDQK85-DyIlSpTz_XhkZVA,The Cheesecake Factory,NV,"The District at Green Valley Ranch, 160 S Green Valley Pky, Henderson, NV 89052",168,18,3.39
+214,ywnY2EoUlboGgmXTuczbYQ,PT's,NV,"4424 W Spring Mountain Rd, Chinatown, Las Vegas, NV 89102",24,1,3.0
+215,oVfM3YqMRE1Dglf7cmvb2w,David Burke,NV,"The Venetian, 3355 Las Vegas Blvd S, Westside, Las Vegas, NV 89109",84,1,2.0
+216,7_7fxuG9ESAFmx-AiMsJHg,Bar Smith,AZ,"130 E Washington St, Phoenix, AZ 85004",97,1,4.0
+217,QQplckr0yVO-8DSPFpbGBQ,SKYE,AZ,"16844 N Arrowhead Fountain Center Dr, Peoria, AZ 85382",38,2,3.5
+218,UCid2Tas6K4SB9sHO9gQ8w,Elephant Bar Restaurant,AZ,"3405 W Chandler Blvd, Chandler, AZ 85226",133,12,3.17
+219,ViiR9YbakbwMBBbaBaaVjg,Riva by Wolfgang Puck,NV,"3355 Las Vegas Blvd N, The Venetian Hotel, Eastside, Las Vegas, NV 89109",27,1,2.0
+220,9CLZ-Uwv3nmOlbbGCIhvrQ,Ocean One Bar and Grille,NV,"3785 Las Vegas Blvd S, Ste 620, The Strip, Las Vegas, NV 89136",174,21,2.33
+221,4TqCyWoWmUpghIVAiSo--g,Basis New American,AZ,"410 E Thunderbird Rd, Phoenix, AZ 85022",18,4,4.0
+222,LkUW-NhcFg21GV9IgiUw0A,S'Bistro,AZ,"124 W Main St, Mesa, AZ 85201",8,1,4.0
+223,_45p8kOA__aNycVVe-n-KA,Planet Dailies,NV,"3667 Las Vegas Blvd. S., The Strip, Las Vegas, NV 89109",385,33,2.94
+224,IVc23uY-36WUNYoIbz42Fg,Switch Restaurant & Wine Bar,AZ,"2603 N Central Ave, Phoenix, AZ 85004",512,88,4.01
+225,JyJDtNQYszK_MmEmzhkoDw,PT's,NV,"10075 S Eastern Ave, Anthem, Henderson, NV 89052",25,3,3.0
+226,i213sY5rhkfCO8cD-FPr1A,BJ's Restaurant & Brewhouse,AZ,"21001 North Tatum Blvd., Phoenix, AZ 85050",132,14,3.64
+227,rSWmudRS67yE-j0Ew2i-mw,Cafe Forte,AZ,"7032 E Main St, Scottsdale, AZ 85251",37,2,4.5
+228,mergQjOh4vok_U1Jg8rVzQ,NM Cafe,NV,"Fashion Show Mall Neiman Marcus, 3200 Las Vegas Blvd S, Ste 100, The Strip, Las Vegas, NV 89136",28,6,3.5
+229,q9_N4b26UhGAYicjueUinQ,Yucca Tap Room,AZ,"29 W Southern Ave, Tempe, AZ 85282",121,4,3.75
+230,bwaj94niH8eOG5p31IKB6Q,Sierra Gold,NV,"1341 W Warm Springs Rd, Henderson, NV 89014",36,4,2.0
+231,5tey93wPQOb7z6jOLJZ30w,Half Moon Sports Grill,AZ,"288 E Greenway Pkwy, Ste 103, Phoenix, AZ 85022",108,24,3.25
+232,tvyOw9dBJ-ds5fEXMTjzfQ,Clarendon Kitchen + Bar C4,AZ,"401 W Clarendon Ave, Phoenix, AZ 85013",29,9,3.0
+233,PCTG40ydF3jtWg0b6YSTJQ,Bongo's Bar & Grill,AZ,"4080 W Ray Rd, Ste 26, Chandler, AZ 85226",17,3,3.67
+234,pDXv67UQjBKScEgGhc5yLg,Catch 22 Sports Grill,AZ,"18725 N 32nd St, Phoenix, AZ 85050",70,18,2.89
+235,CcIJKgrjOv8mIEn-a7M5vw,Madelyn's,AZ,"39504 N Daisy Mountain Dr, Anthem, AZ 85086",4,2,4.5
+236,0qPmDwHa9NdvvIOgerR8HQ,Canal Restaurant,AZ,"7144 E Stetson Drive, Ste 250, Scottsdale, AZ 85251",40,3,3.67
+237,gvtwlFW29b92qcYUAH_v2w,Gordon Biersch Brewery Restaurant,NV,"750 S Rampart Blvd, Ste 16, Westside, Las Vegas, NV 89145",148,16,3.5
+238,VO13q-11lh7St1gd7JPI3Q,Grand Lux Cafe,AZ,"7014 E Camelback Rd, Ste 1023, Scottsdale, AZ 85251",104,15,3.07
+239,Gq092IH6eZqhAXwtXcwc6A,SanTan Brewing Company,AZ,"8 S San Marcos Plz, Chandler, AZ 85225",469,107,4.07
+240,GjvIDOEhdQB1oPrFeSpxBw,Gordon Biersch,AZ,"18545 N Allied Way, Phoenix, AZ 85054",82,13,3.31
+241,ruhhxpj8IrxwMh25eFaKLQ,California Pizza Kitchen,AZ,"1850 South Val Vista Dr, Mesa, AZ 85204",35,1,2.0
+242,YeDYa6tYL16CyqYvUVOtLw,Margaritaville,AZ,"6751 N Sunset Blvd, Ste E109, Glendale, AZ 85305",161,29,2.86
+243,supigcPNO9IKo6olaTNV-g,1130 The Restaurant,AZ,"455 N 3rd St, Ste 1130, Phoenix, AZ 85004",107,16,2.81
+244,2VpSPb8IVXNqyVY5n7caGg,ASAP California Pizza Kitchen,AZ,"Phoenix International Airport, 3400 E Sky Harbor Blvd, Terminal 4 near Gate 10, Phoenix, AZ 85034",15,1,3.0
+245,CdWrHBOvTZ6i0Z37iFaV3g,Javino's,AZ,"14795 N Northsight Blvd, Scottsdale, AZ 85260",31,1,4.0
+246,aMxgW7RlILhF-vcD-sihhg,Granite City,WI,"72 W Towne Mall, Madison, WI 53719",67,17,3.82
+247,Xn_vBRM_vpy6uhnEBIpt-g,Phil's Grill,AZ,"Grayhawk Country Club, 8620 E. Thompson Peak Pkwy, Scottsdale, AZ 85255",9,1,5.0
+248,o5Xu5zGBgL4jruUXudm2yQ,California Pizza Kitchen,NV,"6659 Las Vegas Blvd South, Bldg C1, STE 100, Southeast, Las Vegas, NV 89119",75,1,4.0
+249,At3-UbbYlmBAXYt1edegrQ,Fine's Cellar,AZ,"7051 E 5th Ave, Scottsdale, AZ 85251",19,3,4.0
+250,BXZvqVclZMv-1_xHCdgOCA,Friday's,WI,"1610 Deming Way, Middleton, WI 53562",16,1,2.0
+251,84bLhe1aibxNmogtqSO4rA,Blue Martini,NV,"6593 Las Vegas Blvd S, Ste 214, Southeast, Las Vegas, NV 89119",441,1,4.0
+252,KoJ4jNSmqYbmKqcoh-2dNA,Arizona Roadhouse 66,AZ,"Sky Harbor International Airport, B Terminal, Gates 1-14, Phoenix, AZ 85073",22,1,1.0
+253,QozXMHqNzkVutP-FhcP30w,Table 10,NV,"The Palazzo, 3327 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",401,17,3.12
+254,ymwr8OUokLLxG89gjJ1hjw,The Estate House,AZ,"7134 E Stetson Dr, Ste 200, Scottsdale, AZ 85251",43,1,4.0
+255,j_pce4pG9krrBeYwUni8Pg,Yard House,NV,"6593 Las Vegas Blvd S., Southeast, Las Vegas, NV 89119",641,79,3.81
+256,gI4jThFNwy73SzaNvi-1dw,Ling & Louie's Asian Bar and Grill,AZ,"9397 E Shea Blvd, Ste 125, Scottsdale, AZ 85260",130,2,4.0
+257,C1xxQe1cJAnM13oJRdT75w,American Grill,NV,"9055 S Eastern Ave, Southeast, Las Vegas, NV 89123",5,2,2.5
+258,qd1ajiZRCwqEQJqCgoN1wg,The Herb Box,AZ,"DC Ranch, 20707 N Pima Rd, Ste 140-145, Scottsdale, AZ 85255",149,8,4.0
+259,iV7D7fHKb-bF9fCL_bEMtA,Cork Restaurant,AZ,"4991 S Alma School Rd, Ste 101, Chandler, AZ 85248",148,7,4.0
+260,MFPk16G7fAxnCKTyfjw8Vw,Pita Jungle,AZ,"1850 W. Southern Ave., Mesa, AZ 85202",112,8,4.0
+261,0mPrp8m_caTxdSGfIxNtTw,Tommy Bahama Restaurant & Bar - Las Vegas,NV,"6635 Las Vegas Blvd. South, Southeast, Las Vegas, NV 89119",205,15,4.33
+262,OBUQ86JDhbGWdSxmyIt7Dw,DJT,NV,"Trump International Hotel & Tower, 2000 Fashion Show Dr, The Strip, Las Vegas, NV 89109",51,6,3.0
+263,_FBnbgbEwaZshbuoUoSBfA,Simon Restaurant and Lounge,NV,"The Palms, 4381 W Flamingo Rd, Las Vegas, NV 89103",319,11,4.09
+264,AaKlegu7gmOCD4rEESF76Q,Maizie's Cafe & Bistro,AZ,"4750 N Central Ave, Phoenix, AZ 85012",336,123,3.96
+265,AIN4FSq5ZM4Il5BzXzMNXg,Cracker Barrel Old Country Store,AZ,"1007 N Dobson Rd, Mesa, AZ 85201",89,2,2.5
+266,QBJrNGuM7A8V3amEKBlpOw,McFadden's,NV,"Rio Hotel and Casino, 3700 W Flamingo Rd, Las Vegas, NV 89103",55,13,2.08
+267,H2pm7yVZci7M5RKhAOYzuA,Claim Jumper,NV,"6629 Las Vegas Blvd S, Southeast, Las Vegas, NV 89119",163,13,3.46
+268,He9Dar4bk2vyeiPC7TkUgA,Eddie's House,AZ,"7042 E Indian School Rd, Scottsdale, AZ 85250",208,12,3.25
+269,1ZCX18x3LgCNAH4H41QZ-Q,Turf Grill,NV,"Green Valley Ranch Resort & Spa, 2313 Paseo Verde Dr, Anthem, Henderson, NV 89052",8,6,3.83
+270,WQc22qucCCtOytbx5CHqbw,Nellie Cashman's Monday Club Cafe,AZ,"The Westin Kierland Resort & Spa, 6902 E Greenway Pkwy, Scottsdale, AZ 85254",19,2,3.5
+271,SfzHZTjbQ1yHBFNrtaFtsQ,Great Steak & Potato,NV,"McCarran International Airport, Southeast, Las Vegas, NV 89119",40,1,2.0
+272,1hTBIFVqHfI1hRpdS8iIgg,Vogue Bistro,AZ,"15411 W Waddell Rd, Surprise, AZ 85379",126,38,4.24
+273,Oq3JpmsRsNVKbwKScAP-nw,Blue Sage,AZ,"5350 E Marriott Dr, Phoenix, AZ 85073",27,3,3.33
+274,7a8nSGq152yAkKVKmsqpng,Cafe Bink,AZ,"36889 N Tom Darlington Dr, Carefree, AZ 85377",126,11,3.64
+275,qwmHm3s8p7J12AIY6Co8HQ,Pita Jungle,AZ,"7530 W Bell Rd, Ste 106, Glendale, AZ 85308",168,16,3.75
+276,qb4PzVr19bXXLBf71dd5kQ,Dukes Sports Bar & Grill,AZ,"7607 E McDowell Rd, Scottsdale, AZ 85257",131,19,3.21
+277,Oqm8u_eI_LVXOMAJ4wzP9g,Heart and Soul Cafe,AZ,"4705 E Carefree Hwy, Cave Creek, AZ 85331",103,9,3.89
+278,41t-hpClH6k5ZlK39Q3WIQ,MountainSide,NV,"1442 E Lake Mead Pkwy, Henderson, NV 89015",25,2,4.0
+279,L9ANG1S2a-ap3FDASsyNgw,Bar Bistro 608 / Rooftop Bar,WI,"Hilldale Mall, 430 N Midvale Blvd, Madison, WI 53705",7,1,2.0
+280,0q98gY5I_5Ad_zLowCDkGA,Lakeside Bar & Grill,AZ,"Lake Pleasant Towne Center, 9980 W Happy Valley Rd, Peoria, AZ 85383",59,7,3.57
+281,jfXqQTdxktGQWkELGn-7wA,The Cheesecake Factory,AZ,"Superstition Springs Center, 6613 E Southern Ave, Mesa, AZ 85206",58,4,3.75
+282,M_b7P2IBKY6zyqDmXE1kJA,Stratta,NV,"Wynn Las Vegas, 3131 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",191,5,2.8
+283,6v0vQm3wXzaFoEywvpbnqg,BJ's Restaurant & Brewhouse,AZ,"9748 W. Northern Ave., Peoria, AZ 85345",110,17,3.53
+284,W_iTJxla_wCcEs28FBanNg,Byrd's Pub and Grill,WI,"5956 Executive Dr., Fitchburg, WI 53719",5,1,4.0
+285,Q5diW79GD0MSJ10j1HCf8Q,TGI Friday's,AZ,"11025 N Black Canyon Hwy, Phoenix, AZ 85073",4,2,2.0
+286,UOA5soaz7A1MLN7LJaDuYw,Bar Tepo,AZ,"1625 S Val Vista Drive, Mesa, AZ 85204",4,1,4.0
+287,DcrM4hwDcU2G6vuh2cnaYQ,noca,AZ,"3118 E Camelback Rd, Phoenix, AZ 85016",311,9,4.11
+288,QMN_F0PIReU6QbyEuGSYhg,New Orleans Sno Ball,AZ,"5809 N 7th St, Phoenix, AZ 85014",63,1,4.0
+289,J7LSbTM72--2497H1kkM0w,Alchemy,WI,"1980 Atwood Ave, Schenk - Atwood, Madison, WI 53704",115,34,4.09
+290,zFFN-NQjuQROEQW_xtQXWQ,RP Adler's,WI,"8202 Watts Rd, Madison, WI 53719",31,5,2.4
+291,2jh1-DuB1L5t8pd1vXutgw,Bilbo's Bar & Grill,NV,"8699 W Charleston Blvd, Westside, Las Vegas, NV 89117",13,1,2.0
+292,9ziO3NpoNTKHvIKCBFB_fQ,District American Kitchen and Wine Bar,AZ,"320 N 3rd St, Phoenix, AZ 85004",236,21,3.33
+293,LQWa1oFDa5xpjfaYHwBwqQ,Jack in the Box,AZ,"141 N. Arizona Ave, Chandler, AZ 85224",3,1,4.0
+294,OeDRfvftWBp3avCfWrQi1g,TGI Friday's,AZ,"2920 E Germann Rd, Chandler, AZ 85286",8,1,2.0
+295,Mk3Zdgr98L5aX8OZbamLUg,Madison's,WI,"119 King St, Capitol, Madison, WI 53703",51,3,4.0
+296,ZQZzgR51Yf2PlDpQrwHkOw,John Cutter,NV,"11770 W Charleston Blvd, Summerlin, Las Vegas, NV 89135",102,11,3.73
+297,cBpJIOrVXotDI0XAZH_k0g,Yard House,AZ,"9401 West Westgate Blvd, Glendale, AZ 85305",321,43,3.74
+298,CEq1jgP-F6roehvSiv30dQ,de la Cruz Bistro,AZ,"10 W Main St, Mesa, AZ 85209",58,3,2.0
+299,qjmCVYkwP-HDa35jwYucbQ,True Food Kitchen,AZ,"2502 E Camelback Rd, Phoenix, AZ 85016",624,66,3.98
+300,bYVw4AB5Y7plyqxAJgSi5w,The City Cafe,EDH,"19 Blair Street, Newington, Edinburgh EH1 1QR",50,22,3.73
+301,t7-vFrnBdN6Cn5XU4X3cgw,The Sizzling Scot,EDH,"103-105 Dalry Road, West End, Edinburgh EH11 2AB",8,1,4.0
+302,maB4VHseFUY2TmPtAQnB9Q,Majerle's Sports Grill,AZ,"Chandler Fashion Center, 3095 W Chandler Blvd, Chandler, AZ 85226",57,9,2.89
+303,gY6AhCy22G9yFlAGu9vMFQ,Floyd's Kitchen,AZ,"12601 N Tatum Blvd, Phoenix, AZ 85032",89,4,2.5
+304,rQ4z0EStSZE4acgkne6Hmg,Tuck Shop,AZ,"2245 N 12th St, Phoenix, AZ 85006",322,1,1.0
+305,9Ep4sguv3HH_8lWyzSogjw,Indulge Burgers & More,AZ,"10392 N Scottsdale Rd, Scottsdale, AZ 85254",248,219,3.77
+306,vm9axJ4kMtJNns25FalL6w,FuNuGyz Sports Grill,AZ,"8378 W Thunderbird Rd, Peoria, AZ 85381",47,14,3.64
+307,e8FMAuTswDueAlLsNyLhcA,Daily Dose,AZ,"4020 N Scottsdale Rd, Scottsdale, AZ 85251",481,84,3.98
+308,kwEQ3uY9Jwmknb5kNg3UlA,Grand Lux Cafe,NV,"PALAZZO Resort Hotel Casino, 3327 Las Vegas Blvd S, Ste 1580, The Strip, Las Vegas, NV 89109",699,78,3.97
+309,ekguRa1QybpUaMHqc5vmAw,Antars Sports Bistro,AZ,"9611 W Camelback Rd, Phoenix, AZ 85037",15,3,3.67
+310,Xi1AxyoKZ37PGzorOh9Ing,Ko'sin Restaurant,AZ,"5594 W Wildhorse Pass Blvd, Chandler, AZ 85226",37,2,4.0
+311,ZOa7CkROQBhLuATpNHcHgg,Canyon Ranch Grill,NV,"3355 Las Vegas Blvd S, 3rd Fl, The Strip, Las Vegas, NV 89109",55,3,3.33
+312,PuuOi8bxsvgD_r60iCXS9g,1855 Saloon and Grill,WI,"218 S. Main Street, Cottage Grove, WI 53527",25,2,3.5
+313,jUCgAb0gmvjtOA25I1bQ8A,Brittlebush Bar & Grill,AZ,"The Westin Kierland Resort & Spa, 6902 E Greenway Pkwy, Scottsdale, AZ 85254",12,2,5.0
+314,fwcoLKfZYMH6nZbAaeD6sw,Society Cafe Encore,NV,"3131 Las Vegas Blvd South, The Strip, Las Vegas, NV 89109",446,73,3.85
+315,h16e3XoDeeNdWjOT7JtRnw,Sierra Gold,NV,"6929 Aliante Pkwy, Las Vegas, NV 89084",48,7,3.71
+316,LuGSxdxaFnSFadpNV6uxZQ,Avalon,AZ,"7707 E McDowell Rd, Scottsdale, AZ 85257",85,1,3.0
+317,vBDVxjMtXzZ8GUhV-1L3Jw,Chili's Grill & Bar,AZ,"12660 N Tatum, Phoenix, AZ 85032",32,6,3.17
+318,_AvHni-xdRHmZ3XfYHwGkg,Posh Improvisational Cuisine,AZ,"7167 E Rancho Vista Dr, Ste 111, Scottsdale, AZ 85251",216,2,3.5
+319,xmtKVO7C7KYVqMBe2eQq3A,Gordon Biersch Brewery Restaurant,AZ,"2218 E Willams Field Rd, Gilbert, AZ 85295",124,26,3.35
+320,brz0ho_6H2RBhNzl97veEw,Verde Grill,AZ,"Trilogy Golf Club, 12575 W Golf Club Dr, Peoria, AZ 85383",14,2,3.0
+321,LnBP-kMYE2TnaEZus7t37A,The Meadows Hotel,EDH,"72 Causewayside, Newington, Edinburgh EH9 1PY",8,1,4.0
+322,uIDdneARsmwPLebKrwMtBw,Pita Jungle,AZ,"1431 E Williams Field Rd, Ste 101, Gilbert, AZ 85295",140,3,4.0
+323,wl51t6lT7leiX64SlkOx6g,Pita Jungle,AZ,"20910 N Tatum Blvd, Suite 140, Phoenix, AZ 85050",215,13,4.15
+324,JQrF4iHYZkF5IBTvOQBpIw,La Brioche True Food,WI,"2862 University Ave, Madison, WI 53705",87,8,3.38
+325,roZ3dxN37swf0dgglLUUCA,Talula,WI,"802 Atlas Ave, Madison, WI 53714",12,2,4.0
+326,14K90G-hbfk795NY7cKxMA,Blue 32 Sports Grill,AZ,"1524 E Williams Field Rd, Gilbert, AZ 85295",140,24,4.08
+327,NbqbD0vR84L3VN59J41ePg,Sunset Grill,NV,"6280 S Valley View Blvd, Ste 100, Las Vegas, NV 89118",16,1,4.0
+328,ttLtsY1S2Angj6hvEdzwDQ,Blue Martini Lounge,AZ,"5455 E High St, Ste 101, Phoenix, AZ 85054",139,2,3.5
+329,6qC2ATU4rVRRTKI-SScQOQ,Kona Grill,AZ,"2224 E Williams Field Rd, Gilbert, AZ 85295",112,5,2.8
+330,Uvdw8gzQTPkt7SPmx5W7Eg,T.G.I. Friday's,NV,"9090 Alta Dr, Westside, Las Vegas, NV 89145",44,4,3.25
+331,6sNvLW4fVBWEgze71pGDZQ,TGI Friday's,NV,"7300 Aliante Pkwy, North Las Vegas, NV 89084",68,10,2.3
+332,dnBtxFbV4qHXqntYGDUDxQ,12 East Cafe,AZ,"1153 E Jefferson St, Phoenix, AZ 85034",10,2,4.0
+333,YgUhOHwvrE4C3Ki7bqmMJQ,Regions Bistro and Bar,AZ,"9343 E Shea Blvd, Ste 100, Scottsdale, AZ 85260",11,1,5.0
+334,lIlaoptZjY7DD4pO0Mk8ow,The Cheesecake Factory,NV,"750 S Rampart Blvd, Bldg 17, Westside, Las Vegas, NV 89145",217,14,3.57
+335,6L9McpPjh3UzZxvR1cf1Lw,Vinery 214 Bistro,AZ,"214 W Roosevelt St, Phoenix, AZ 85003",11,1,1.0
+336,MpbVyyqTuZZKzHvrTw4Npg,Cafe Mix,AZ,"4405 E Mckellips Rd, Ste 106, Mesa, AZ 85215",83,1,4.0
+337,oY71G_AaKlF4Il-gt4L2OQ,Pier 54,AZ,"5394 S Lakeshore Dr, Tempe, AZ 85283",50,7,3.29
+338,F2Fxp4mQKOqSOYFEAOHnsw,Regions Bistro & Bar,AZ,"690 South Mill Ave., Tempe, AZ 85281",23,3,2.67
+339,vc_Rj7GAepCUpo3U6LAMHw,Veloce Cibo,NV,"12300 Las Vegas Blvd S, Henderson, NV 89044",54,3,3.0
+340,pLdz4dZ6fUxp2GgBRNPq2Q,The Bar At Bermuda & St. Rose,NV,"11624 Bermuda Rd, Southeast, Henderson, NV 89052",48,4,4.25
+341,BczVI3UZI9R9AqZVUcH3mA,Springs Cafe by Wolfgang Puck,NV,"333 S Valley View Blvd, Westside, Las Vegas, NV 89107",25,8,3.12
+342,QR8WItkeeoKwng308YDVgA,The Landings,NV,"3500 Executive Terminal Dr, Ste  200, Anthem, Henderson, NV 89052",22,1,4.0
+343,FFdlPSZCGgTdg1CAfrlvlw,Native New Yorker,AZ,"1339 E Chandler Blvd, Phoenix, AZ 85048",31,2,3.0
+344,mMy3ki7V3ekNjKIH-93mZg,Engrained Cafe,AZ,"ASU Sun Devil Dining Memorial Union, 1290 S Normal Ave, Tempe, AZ 85287",14,2,4.0
+345,1MMztCZKPtw9DoCVflfZFg,BJ's Restaurant & Brewhouse,NV,"9520 S. Eastern Ave., Southeast, Henderson, NV 89123",246,26,3.46
+346,Aisjvk-fZVwAcGsN4NlviA,Kozy Cactus,AZ,"4326 E Cactus Rd, Phoenix, AZ 85032",11,3,3.33
+347,mbpDk_uvYwH2ZPo8LoJYxg,Toby Keiths I Love This Bar & Grill,AZ,"1065 N Dobson Rd, Mesa, AZ 85201",168,24,2.79
+348,ou5yH_kNEiN8J_GTSGYSvg,98 South,AZ,"98 S San Marcos Pl, Chandler, AZ 85225",22,2,2.5
+349,vbuePEUjg869T_HWyz0qCw,Tinoco's Kitchen,NV,"Las Vegas Club Hotel, 18 E Fremont Street, Las Vegas, NV 89101",30,3,5.0
+350,4zG4BIOz8pJ_mT3zsDIPew,Denny's,AZ,"825 S 48th St, Tempe, AZ 85281",12,2,4.5
+351,_5k83wy9_5NpErw7Ecgt3g,American Fish,NV,"Aria Resort and Casino, 3746 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",288,3,3.33
+352,OiCxoAIoBvEWxf7p1qVVmA,Sage,NV,"Aria Resort and Casino, 3732 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",646,2,3.5
+353,bGj9djLAHjNR55OXsIDrAg,ARIA Cafe,NV,"ARIA Resort &Casino, 3730 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",392,25,2.44
+354,UIfORCz28cEGMr_9p0eJ5g,25 Degrees,AZ,"5415 E High St, Ste 127, Phoenix, AZ 85054",60,47,3.4
+355,32f43CI5i1oCleGZG5kQFA,Sammy's Beach Bar & Grill,NV,"McCarran International Airport, 5757 Wayne Newton Blvd, Eastside, Las Vegas, NV 89169",88,22,1.68
+356,JauLZ0TL3D3VIGtSnStzhA,First Food & Bar,NV,"The Palazzo, 3327 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",361,29,3.86
+357,THq4W2p3emLdTJEP8f6cbQ,Elements Kitchen & Martini Bar,NV,"4950 S Rainbow Blvd, Ste 100, Spring Valley, Las Vegas, NV 89118",133,2,5.0
+358,Q0tWheeEldwr0OKHTHB79g,Vu Bistro,AZ,"14815 E Shea Blvd, Fountain Hills, AZ 85268",46,6,3.33
+359,OZZjgwmc0ijdGN-IMYBzhg,Black Pepper Grill,NV,"9510 S Eastern Ave, Southeast, Henderson, NV 89123",7,1,4.0
+360,KVYSUfN89b-nih-_9HhF6g,McFadden's Restaurant & Saloon,AZ,"9425 W Coyotes Blvd, Glendale, AZ 85305",143,17,1.53
+361,uBXSxanoPdT_Jc_x0_7ggg,Garfield's Restaurant,NV,"2620 Regatta Dr, Ste 117, Summerlin, Las Vegas, NV 89128",72,4,4.0
+362,x6SGXzrmGPJklnbKO_SGxg,Great Dane,WI,"357 Price Pl, Madison, WI 53705",92,25,3.6
+363,EBwv1DBGKsfdNZEYL70Dqw,Calistro California Bistro,AZ,"18221 N Pima Rd, Scottsdale, AZ 85255",52,6,2.67
+364,tteHjtbjQfWnJgFe4jPoMA,Jacs,WI,"2611 Monroe St, Dudgeon-Monroe, Madison, WI 53711",107,26,3.96
+365,ZztUsJyGDwPySepmXRG13g,Dave's Electric Brewpub,AZ,"502 S College, Tempe, AZ 85281",50,7,2.71
+366,WBxuIQsxGl7vNe5MXYszCA,BJ's Restaurant & Brewhouse,AZ,"6622 E. Superstition Springs Blvd., Mesa, AZ 85206",82,10,3.7
+367,l-Xv5Kmg2gilJI3-DGVCqw,Pita Jungle,AZ,"7014 E. Camelback Rd., Scottsdale, AZ 85251",59,2,4.0
+368,bFIOaAXd7iv6Zvnqx7D71A,Devil's Advocate Bar & Grill,AZ,"955 E University Dr, Tempe, AZ 85281",73,8,3.88
+369,BY5vQCkob7bO7S-9Z8QQZA,MIX 94.1's Bite Of Las Vegas,NV,"8275 W Spring Mtn Rd, Spring Valley, Las Vegas, NV 89117",17,4,4.0
+370,YCCDMLcb7UW8G-o_HsWiiA,Modern Steak,AZ,"7014 E Camelback Rd, Suite 1433, Scottsdale, AZ 85251",247,52,3.94
+371,gW0k1iIF1xuuFclzI_HbBA,Bonfyre American Grille,WI,"2601 W Beltline Hwy, Madison, WI 53713",103,5,4.0
+372,l5GGMobHJvzaQO2rZFwdTQ,The Compound Grill,AZ,"7000 E Mayo Blvd, Ste 21, Phoenix, AZ 85054",83,12,3.58
+373,m6JwiGrKrs0XCmH9ij3fmA,The Sporting House Bar & Grill,NV,"New York New York Hotel and Casino, 3790 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",95,9,3.56
+374,SXVI_RMuNWEoXDXlgtRfiw,Il Vinaio,AZ,"270 W Main St, Mesa, AZ 85201",81,12,3.33
+375,s1dex3Z3QoqiK7V-zXUgAw,5th and Wine,AZ,"7051 E 5th Ave, Scottsdale, AZ 85251",371,63,4.25
+376,JgyUh1fMQhFBq2GiWU9teA,Eureka! Grill,AZ,"15332 W Bell Rd, Ste 101, Surprise, AZ 85374",12,4,3.5
+377,bxF5KhZbBhVk3usx58FgVg,Sunset Grill of Deforest,WI,"637 W North St, De Forest, WI 53532",11,2,5.0
+378,120FPCmDjdvuHrAnRmHKKQ,Logan's Madtown,WI,"322 W Johnson St, Capitol, Madison, WI 53703",10,1,1.0
+379,CMtl40yu6s1vB0bOjP0C_w,Silk Road,NV,"Vdara, 2600 W Harmon Ave, Eastside, Las Vegas, NV 89109",24,3,2.33
+380,9dopZKjYiKwPiw7kEQsEag,Down Under Wines & Bistro,AZ,"1422 W Warner Rd, Ste 100 A, Gilbert, AZ 85233",74,6,3.5
+381,8_7FOY-N7MVhNM1F-PbAoQ,Union Restaurant & Lounge,NV,"Aria Resort & Casino, 3736 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",59,3,3.0
+382,q9WaFYhlOZCrfXJQTG5t_Q,The Living Room,AZ,"2475 W Queen Creek Rd, Chandler, AZ 85248",176,2,3.5
+383,uEM0101eGSP6P2A1XEYYbw,A&W,AZ,"1495 N Dysart Rd, Avondale, AZ 85323",4,1,4.0
+384,M6fjHpkL9IRI-nI0BattRw,The Main Ingredient Ale House And Café,AZ,"2337 N 7th St, Phoenix, AZ 85006",358,3,3.0
+385,xY1sPHTA2RGVFlh5tZhs9g,Culinary Dropout,AZ,"7135 E Camelback Rd, Ste 125, Scottsdale, AZ 85251",655,69,3.64
+386,CU5d1QN2A5cgcR9zmLVS0g,The Cooper's Tavern,WI,"20 W Mifflin St, Capitol, Madison, WI 53703",188,22,3.68
+387,vwZ15OkVO6PemAe87k0M-Q,Mabel's On Main,AZ,"7018 E Main St, Scottsdale, AZ 85251",202,13,3.46
+388,TnkxapUN4nWMz_z5h3qMYg,Pita Jungle,AZ,"1001 N 3rd Ave, Ste 3, Phoenix, AZ 85003",214,8,4.12
+389,QbmcCE_cLq4WO8ZMKImaLw,Hash House A Go Go,NV,"The Quad Resort & Casino, 3535 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",1759,122,3.84
+390,0H7ewZ656xM0bulSMowWtQ,Sagos Baja Tavern & Lounge,NV,"4790 S Fort Apache Rd, Spring Valley, Las Vegas, NV 89147",45,6,4.0
+391,UBq0EyWQe42H0lrq0PXXqQ,Wienerschnitzel,AZ,"2100 N McQueen Rd, Chandler, AZ 85225",9,2,3.0
+392,lr9g60tGRMHkU4xYiLYdkw,Mirage Sports Grill,AZ,"725 W Apache Trl, Apache Junction, AZ 85120",3,1,4.0
+393,1kMR_HUA8i-wYOJFZfLhBA,32nd Cafe,AZ,"2822 N 32nd St, Ste 1, Phoenix, AZ 85008",6,2,4.0
+394,N80E9zoWEpHhi4kH2eKAsw,Bar North,AZ,"15024 N Scottsdale Rd, Ste 140, Scottsdale, AZ 85254",30,2,4.5
+395,XzdJdCEZyopW1RjFfxcK8A,Westside Bistro,NV,"710 W Lake Mead Blvd, North Las Vegas, NV 89030",9,1,2.0
+396,BdHq8McnAFZ_TinhrQrNuQ,Chili's Grill & Bar,NV,"7335 Arroyo Crossing Pkwy, Spring Valley, Las Vegas, NV 89113",70,7,2.86
+397,NUl8uEz5ijDAZvkgCQrrpA,PT's,NV,"2135 E Centennial Pkwy, Las Vegas, NV 89081",28,2,3.5
+398,8RYf6xuRZDTyvX59eTAydw,Wienerschnitzel,NV,"2060 E Serene Ave, Southeast, Las Vegas, NV 89123",12,2,4.5
+399,cdwHgELA2puX2DNfwSt5EA,El Chorro,AZ,"5550 E Lincoln Dr, Paradise Valley, AZ 85253",166,5,4.6
+400,-pJVjm0t4F6sNHo77HlQKA,The Cove Grill,AZ,"5070 S Gilbert Rd, Ste 400, Chandler, AZ 85249",35,10,4.4
+401,32X-4aALQG3Sc_o5hVrv7Q,ROQ,AZ,"Intercontinental Montelucia Resort, 4949 E Lincoln Dr, Paradise Valley, AZ 85253",10,2,4.0
+402,r-a-Cn9hxdEnYTtVTB5bMQ,The Grind,AZ,"3961 E Camelback Rd, Phoenix, AZ 85018",307,265,3.59
+403,fWQqaAaOon3XkFqPFYgo6Q,Sangria's,AZ,"7700 E McCormick Pkwy, Scottsdale, AZ 85258",6,1,1.0
+404,sbsFamEj5wDxNAjUKrMcSw,RnR,AZ,"3737 N Scottsdale Rd, Scottsdale, AZ 85251",401,49,3.29
+405,NcAI7SE1SNlrOEfFg9Wzuw,Ghost Lounge,AZ,"202 N Central Ave, Phoenix, AZ 85004",32,1,4.0
+406,4YiayKmzqRao1UNb8Xh0Bw,On The Green Sports Grill,AZ,"801 S Power Rd, Mesa, AZ 85206",13,4,3.5
+407,cp39VURFby4A6u9m2It8jg,Zinburger,AZ,"2502 E Camelback Rd, Ste 127, Phoenix, AZ 85016",442,389,3.76
+408,WS1z1OAR0tRl4FsjdTGUFQ,The Vig Uptown,AZ,"6015 N 16th St, Phoenix, AZ 85014",321,60,3.92
+409,LuYZUc1MOG0pA146SCeXgA,Bar + Bistro @ the Arts Factory,NV,"107 E Charleston Blvd, Ste 155, Downtown, Las Vegas, NV 89104",283,12,3.5
+410,y6NFyThUU2wtTNa0rX7VrA,DW Bistro,NV,"6115 S Ft Apache Rd, Ste 112, Spring Valley, Las Vegas, NV 89148",579,51,4.37
+411,yOLyhudDoL2faBOK0dAN3Q,Badger Cafe,NV,"1801 E Tropicana Ave, Ste 8, Eastside, Las Vegas, NV 89119",84,66,4.2
+412,M-KswR9gmh6C5VZq32OUSw,Rhythm and Wine,AZ,"7605 E Pinnacle Peak Rd, Scottsdale, AZ 85255",59,2,3.0
+413,EQQOPKL3rmPsH73IF7kvjw,Johnny Smalls,NV,"Hard Rock Hotel & Casino, 4455 Paradise Rd, Eastside, Las Vegas, NV 89199",134,8,3.25
+414,ETnU0pf3aFuZfpHEHWyd4A,Rock & Rita's,NV,"Circus Circus Hotel and Casino, 2800 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",98,22,2.55
+415,mY3l0hqy2aayUWRjIYpBVA,Niki's Kitchen- Fry Bread,AZ,"816 S Stapley Rd, Mesa, AZ 85204",44,1,4.0
+416,XSVYjF-FW9EgsqOJO5UsWA,Versus Sports Grill,AZ,"9030 E Via Linda, Scottsdale, AZ 85258",11,3,2.33
+417,9-cRrGH5WmZKQ_O6LtfSbw,The Lounge,AZ,"9832 N 7th St, Phoenix, AZ 85020",33,1,4.0
+418,mmwJ2goOb9jJi53zxEdByw,Zendejas Grill,AZ,"19420 N 59th Ave, Glendale, AZ 85308",30,6,3.5
+419,ItMihRR-t810HgctGofF3g,Nourish,AZ,"Optima Camelview Complex, 7147 E Highland Ave, Scottsdale, AZ 85251",159,44,3.34
+420,6QQ1qO4X9NBBsrq4tYb5dQ,Straight Up Gaming & Martini Lounge,NV,"4970 S Fort Apache Rd, Las Vegas, NV 89148",22,4,3.5
+421,8Cg98L22BEcAD3gQq3QsPA,Gallagher's,AZ,"2050 N Alma School Rd, Chandler, AZ 85224",22,4,3.0
+422,QCxXYA13PtkD3wec47_r8Q,Primebar,AZ,"15037 N Scottsdale Rd, Scottsdale, AZ 85254",88,6,3.17
+423,0JvCE6H-JG-bm2k-snur1A,Stella's Kitchen,AZ,"Tempe Marketplace, 2000 E Rio Salado Pkwy, Tempe, AZ 85281",9,5,2.8
+424,6IRoWd6N__OVMNQfvu1Ccw,Yard House,NV,"11027 W Charleston Blvd, South Summerlin, Las Vegas, NV 89135",345,41,4.0
+425,cuMMU10KaD0cZ2WdK5XC1A,Old Country Buffet,AZ,"9620 Metro Pkwy W, Ste 153, Phoenix, AZ 85051",20,1,3.0
+426,tw6GRnK752GAl3ylfjuRuQ,Off the Strip Just Real Food,NV,"9837 W Tropicana Ave, Spring Valley, Las Vegas, NV 89147",47,5,3.2
+427,KgTb63IZHFn_rhLG-cpm_A,Renegade Tap & Kitchen,AZ,"9343 E Shea Blvd, Scottsdale, AZ 85260",106,34,3.94
+428,xHI3saK0sAJEHeMK4IGVvg,Short Leash Dogs Food Truck,AZ,"110 E Roosevelt St, Phoenix, AZ 85004",259,3,5.0
+429,cmv6wUUe-H0xRiFEY0__iQ,Graze,WI,"1 S Pinckney St, Capitol, Madison, WI 53703",370,102,3.96
+430,fI47JKlBBwtqOgiZZb4hdQ,Peaks & Valleys Restaurant,AZ,"711 E Carefree Hwy, Phoenix, AZ 85085",26,3,4.0
+431,nENrnY-3ILrH9yPXV4tqmg,Vatra,AZ,"3433 N 56th St, Phoenix, AZ 85018",20,1,4.0
+432,_OYlq2UoKPQO_ElqhC3a8w,Lucky Strike,AZ,"50 W Jefferson St, Ste 240, Phoenix, AZ 85003",133,10,3.8
+433,VcaZryq9wXA7Uy8U_RTYhw,The Brentwood Cafe And Tavern,NV,"7315 W Warm Springs Rd, Southwest, Las Vegas, NV 89113",70,9,3.67
+434,gHZLdCEYDT_hHrKDgHP6kQ,Big Burger,NV,"2901 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",3,3,2.33
+435,PwxvN0SnAGPdqXdNEYVT3g,Bliss ReBAR,AZ,"901 N 4th St, Phoenix, AZ 85004",306,48,3.6
+436,T1Ow8cCmbgSvKU9UP2zPLA,Courthouse Bar & Grill,NV,"330 S 3rd St, Downtown, Las Vegas, NV 89101",25,1,4.0
+437,ECO2Bi8a8sPjW6f7JMbhdg,"Biscayne Steak, Sea and Wine",NV,"3801 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",65,3,4.67
+438,hKmjsDS-nK-cPyUyix-PiQ,PT's,NV,"6570 S Buffalo Dr, Spring Valley, Las Vegas, NV 89113",44,1,3.0
+439,neEGFNmmKibjExB4_215ZA,Brick,AZ,"The Arizona Ctr, 455 N 3rd St, Phoenix, AZ 85004",125,21,3.67
+440,EIRuE6R4EWv8AwD5sleNaQ,9091,NV,"670 E Flamingo Rd, Eastside, Las Vegas, NV 89119",66,9,4.56
+441,83sb0wFGPND90SZ5sYEcPA,Twisted Lizard Tavern & Grill,AZ,"10401 E McDowell Mountain Ranch Rd, Scottsdale, AZ 85255",46,3,4.0
+442,8ybK693HDdSGs8EwGrfJCA,Presidio,NV,"2235 Village Walk Dr, Ste 141, Anthem, Henderson, NV 89052",67,4,3.5
+443,6mAwrhtRksb5jxsJURtmxA,The Center Bistro,AZ,"21 E 6th St, Ste 114, Tempe, AZ 85281",21,1,1.0
+444,qh455klme9unowV-BQol7w,Paradise,AZ,"1749 W Main St, Mesa, AZ 85201",9,1,5.0
+445,Cm8adqSt3IZSmVLJRbNfyA,Addiction Restaurant,NV,"Rumor Hotel, 455 E Harmon Ave, Eastside, Las Vegas, NV 89169",52,13,3.38
+446,-h-q6zTIdPlkz9BDP11sBg,Seasons 52,AZ,"2502 E Camelback Rd, Phoenix, AZ 85016",262,12,4.0
+447,Ntzv4OWdwq1lNW7lnTJoyg,PT's,NV,"3770 S Hualapai Way, South Summerlin, Las Vegas, NV 89147",21,1,2.0
+448,coXomDOValXzks6BwMHG1A,The Living Room Wine Cafe & Lounge,AZ,"2333 N 7th St, Phoenix, AZ 85006",41,4,4.25
+449,I4bSn5gXsHuSPu7L-d_8nQ,Beckett's Table,AZ,"3717 E Indian School Rd, Phoenix, AZ 85018",513,34,3.94
+450,hlekz2L2HV8cVSEkgMvuEA,The House at Secret Garden,AZ,"2501 E Baseline Rd, Phoenix, AZ 85042",90,4,3.5
+451,I1wKHeee3qnA8Io5xGaLjQ,Mood Restaurant,NV,"Artisan Hotel, 1501 W Sahara Ave, Las Vegas, NV 89109",36,1,1.0
+452,6dLihxk39LdNnTC4JMbA0A,Alchemy Restaurant at CopperWynd Resort and Club,AZ,"13225 North Eagle Ridge Drive, Fountain Hills, AZ 85268",38,3,4.0
+453,aYAlzKHwXQn6JNLweRnZjQ,Nacho Daddy,NV,"9925 S Eastern Ave, Anthem, Las Vegas, NV 89183",362,28,3.89
+454,Zh_y9AmSfWZpR2JB9wye-A,True Food Kitchen,AZ,"15191 N Scottsdale Rd, Ste 100, Scottsdale, AZ 85254",432,60,4.07
+455,YJoph5UiUZ3BEb49vyFAuQ,Garage Wine and Tap,AZ,"1534 E Bethany Home Rd, Phoenix, AZ 85014",155,43,3.79
+456,Dt8RITU4OmTbRaKKlZm_Pg,Sunshine and Spice,AZ,"2303 N 44th St, Phoenix, AZ 85008",9,1,3.0
+457,ImJ7QAw6T6ayJT1AGr7OgA,Merchant Madison,WI,"121 S Pinckney St, Capitol, Madison, WI 53703",172,18,4.0
+458,PNThcRNEFI3azvfhvhd_KA,I Love Burgers,NV,"The Palazzo, 3327 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",374,297,2.86
+459,EFLVfAlLigGlQRqbi2IfBg,Fit 2 Eat,WI,"3742 Speedway Rd, Madison, WI 53705",7,1,5.0
+460,jRfdz5voj40P6WS9L54caw,The Herb Box,AZ,"Old Town Scottsdale, 7134 E Stetson Dr, Ste 200, Scottsdale, AZ 85251",377,16,3.81
+461,GTAOZFZqZmis3TuM9H_t1w,43 North,WI,"108 King St, Capitol, Madison, WI 53703",63,1,5.0
+462,qpo6O2Ozbrn8wFnoCM4slA,P.J. Clarke's New York Chophouse,NV,"The Forum Shops At Caesars Palace, 3500 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",238,48,3.6
+463,Mie70jRF1hdVqiB7G_lIhg,Parc Central,AZ,"15323 N Scottsdale Rd, Scottsdale, AZ 85260",41,3,3.67
+464,MuIXnv7Oq7X3-4aEsp9dDA,Citizen Public House,AZ,"7111 E 5th Ave, Ste E, Scottsdale, AZ 85251",760,86,3.95
+465,g9XzAhPiS9DCYT4FbKPzZg,Grand Café,NV,"Sunset Station Hotel and Casino, 1301 W Sunset Rd, Henderson, NV 89104",46,5,2.6
+466,G6hm1kGR9Jjg5Kzb3lvpmg,Ravella at Lake Las Vegas,NV,"1610 Lake Las Vegas Blvd, Henderson, NV 89011",67,1,5.0
+467,ypEtwQHobNJCZvPONO38WQ,Litchfield's,AZ,"300 E Wigwam Blvd, Litchfield Park, AZ 85340",40,1,4.0
+468,-lb5532P5eoxMadPPrZVXw,Wild Bull All American Pub and Grill,WI,"8240 Market St, Middleton, WI 53562",8,1,5.0
+469,Xq9tkiHhyN_aBFswFeGLvA,The Arrogant Butcher,AZ,"2 E Jefferson St, Ste 150, Phoenix, AZ 85004",575,42,3.31
+470,AhVAj8F7jjMJcqKD30XwMw,Cafe @ Rio,AZ,"Rio Salado College, 2323 W 14th St, Tempe, AZ 85281",5,1,5.0
+471,GHYOl_cnERMOhkCK_mGAlA,Kitchen 56,AZ,"3433 N 56th St, Phoenix, AZ 85018",166,23,3.87
+472,GYPHQGaB4Oeq9veH-p2nKA,Thirteen North,AZ,"1301 E Northern, Phoenix, AZ 85020",91,28,4.14
+473,nZgYNbl1XlZyyKlISMoG6w,Sugar Factory American Brasserie,NV,"Paris Las Vegas Hotel, 3655 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",626,95,3.06
+474,0yBs5wbVw9gTIDe9Z-rMTg,Bonfire Grill and Bar,AZ,"7210 E 2nd St, Scottsdale, AZ 85251",41,3,4.33
+475,4r9-iKOagzn5oUvPE9Bz4Q,Province Restaurant,AZ,"333 N Central Ave, Phoenix, AZ 85004",131,9,3.0
+476,FURgKkRFtMK5yKbjYZVVwA,Windsor,AZ,"5223 N Central Ave, Phoenix, AZ 85012",550,101,4.19
+477,34JQEZg9DgTpzZ8tnAw_CQ,Tony D's,NV,"1311 W Sunset Rd, Ste 105, Henderson, NV 89014",11,4,3.0
+478,lTvW5TcIVIVNmE4_LYQ4eA,Wine 5 Cafe,NV,"3250 N Tenaya Ave, Ste 110, Northwest, Las Vegas, NV 89129",113,13,4.38
+479,6BaQ2FZTDi2FYX9dIxWeJA,Steenbock's On Orchard,WI,"330 N Orchard St, South Campus, Madison, WI 53715",25,3,3.33
+480,kgPjOtSeMd3CMdbnEmHbeQ,Majerle's Sports Grill,AZ,"4425 N Saddlebag Trl, Scottsdale, AZ 85251",71,6,3.33
+481,T11YSYqwlRDC48V8-W1GRw,Café Allegro at MIM,AZ,"4725 E Mayo Blvd, Phoenix, AZ 85050",17,3,3.33
+482,98Cs_twO8VAroN3oA5TkGw,Grand Café,NV,"Boulder Station Hotel & Casino, 4111 Boulder Highway, Las Vegas, NV 89121",29,3,2.67
+483,tXydHtnQ2sU37kXy30CBLw,Double Helix,NV,"6599 Las Vegas Blvd S, Ste 150B, Southeast, Las Vegas, NV 89119",144,6,2.67
+484,Ba3-fDVhzLahunTUEMTsKg,Carlos' Kitchen,NV,"Spectators Bar, 4140 S Durango Dr, Spring Valley, Las Vegas, NV 89147",126,47,4.43
+485,211DetkFdxd8sQ54CMU35A,Smashburger,AZ,"2000 E Rio Salado Pkwy, Ste 1155, Tempe, AZ 85281",69,56,3.88
+486,xtW28KmwigJ8fAPgT6OkFw,Baldwin Street Grille,WI,"1304 E Washington Ave, Tenney - Lapham, Madison, WI 53703",19,7,4.29
+487,Kj2SCzhHuULRdTKg6Y2aeg,Betty's Nosh,AZ,"Denaro 101 Plz, 6685 W Beardsley Rd, Ste 180, Glendale, AZ 85308",128,7,3.29
+488,ogfRcEN46rhAth7550bkYw,3rd Place Neighborhood Grill,AZ,"15814 N 83rd Ave, Peoria, AZ 85382",15,6,3.33
+489,UtbvcvXWLCZX75g_KtMW2A,Saddle Bronc Grill,AZ,"11056 N Saguaro Blvd, Fountain Hills, AZ 85268",36,7,3.14
+490,oJbTdA12FozyXISmBx7WAQ,The Canyon,AZ,"16203 N Scottsdale Rd, Scottsdale, AZ 85254",6,1,4.0
+491,qth1W742hXtFoNVYvuHBEg,The Martini,NV,"1205 S Fort Apache Rd, Westside, Las Vegas, NV 89117",94,10,4.2
+492,USyDC-cZCexcyNGrc8uiag,Red Velvet Café,NV,"Fashion Show Mall, 3200 Las Vegas Blvd, Ste1850, The Strip, Las Vegas, NV 89109",147,5,4.8
+493,AeMfb2FtQNnPXE9n92MDww,Coach & Willie's,AZ,"1 E Boston St, Chandler, AZ 85225",108,18,2.83
+494,rPp509oz4oFEdncoo7v_HA,Burgers & Bottles,AZ,"1645 N Hayden Rd, Scottsdale, AZ 85257",34,30,4.0
+495,fP-BPL6iRu2tbcvlnjRshw,Copper Blues,AZ,"50 W Jefferson St, Ste 200, Phoenix, AZ 85003",209,10,3.3
+496,NqiMymQO86d7O60LDArA9Q,Harry's,NV,"8 Strada di Villaggio, Henderson, NV 89011",31,2,2.5
+497,oT6K-uJgGLq3FbcQQn3ivQ,Bar n Grill,AZ,"110 S Val Vista Dr, Gilbert, AZ 85297",3,1,1.0
+498,9p1o6jCY4fkQAJRmEjgSMw,The Sett,WI,"1308 W Dayton St, South Campus, Madison, WI 53715",7,3,4.33
+499,peajBNcZmTDlwwST0LdMdQ,Cino's,NV,"72 W Horizon Ridge Pkwy, Ste 105, Henderson, NV 89012",25,3,3.67
+500,ZzM6aBJXfogx26h-50_SIQ,Steelz,NV,"4401 E Sunset Rd, Henderson, NV 89014",11,3,4.0
+501,WD5l9HdTjDbqPRocncCrEQ,BJ's Restaurant & Brewhouse,NV,"5881 Centennial Center Blvd., Centennial, Las Vegas, NV 89149",153,14,2.86
+502,GRFunGSUZxXqNCZJrN8Oow,Ncounter,AZ,"310 S Mill Ave, Ste A101, Tempe, AZ 85281",309,1,3.0
+503,MRObvlfMLEhz9szPTMkGwQ,The Rigby,WI,"119 E Main St, Capitol, Madison, WI 53703",25,7,4.29
+504,8n_YaIqhFivUDUxVuaoKDw,Limelight Dipping Bar And Grill,AZ,"4218 N Scottsdale Rd, Scottsdale, AZ 85251",25,13,2.69
+505,s93PtWxihLbhK5Jg_FttzA,Hash House A Go Go,NV,"Plaza Hotel and Casino, 1 S Main St, Downtown, Las Vegas, NV 89101",244,24,3.42
+506,Gvw2ewUbqq7PWkxKwjqifA,The Barrymore,NV,"99 Convention Center Dr, The Strip, Las Vegas, NV 89109",487,43,4.37
+507,5dSQ1KV9HkbZm0ZmJHuMKA,Embers,NV,"740 S Rampart Blvd, Ste 7, Westside, Las Vegas, NV 89145",125,16,4.0
+508,ZiAmyZ0Mt5y781oYE7PjyA,DQ Grill & Chill,NV,"560 E Windmill Ln, Southeast, Las Vegas, NV 89123",17,3,2.33
+509,FKgHfvus9DiBWxqMmnEqYA,Milagros Restaurant,AZ,"2100 S Priest Dr, Tempe, AZ 85282",4,1,4.0
+510,7aS0iFpab3XHFQrRGMOKXw,Pita Jungle,AZ,"2530 W Happy Valley Rd, Ste 1261, Phoenix, AZ 85085",83,4,3.75
+511,JUXPQQshoOV5LUKLtCrOtw,Our Gang Sports Saloon & Grill,AZ,"9832 N 7th St, Phoenix, AZ 85020",25,10,3.5
+512,7eUFOcfxuXDdrHGVSp3_9A,Herb 'n Flavors,AZ,"1845 E Broadway Rd, Tempe, AZ 85281",142,17,3.88
+513,jNznjS_5scWjZbuXPM2mgg,Bison Jacks,WI,"8310 Greenway Blvd, Ste 104, Middleton, WI 53562",24,5,3.0
+514,OAyA2ogCSAn8UHcI9UuQ_w,Divine Cafe at the Springs Preserve,NV,"333 S Valley View Blvd, Westside, Las Vegas, NV 89152",31,9,3.22
+515,EQxbEKkHxNvRT_-S5A-Gcw,Greens and Proteins,NV,"8975 S Eastern Ave, Southeast, Las Vegas, NV 89123",320,81,3.93
+516,sS5EmR4ZG_6YG87dNp8yxw,PT's,NV,"61 W Horizon Ridge Pkwy, Henderson, NV 89012",21,1,2.0
+517,M75Mj9JwbL_2dDsyXQiUSw,Cave Creek Tap Haus,AZ,"6900 E Cave Creek Rd, Cave Creek, AZ 85331",62,13,2.62
+518,FCcFT610nQBVcRdY-devQA,Vintage 95,AZ,"95 W Boston, Chandler, AZ 85225",150,18,3.78
+519,wNsmt1hF1uv3YvbwXZMAoQ,O.H.S.O. Eatery + nanoBrewery,AZ,"4900 E Indian School Rd, Phoenix, AZ 85018",463,95,3.85
+520,B3X4Cbty1G_m9abGL47sQw,I Love Burgers,NV,"6569 S Las Vegas Blvd, Ste 176, Southeast, Las Vegas, NV 89119",188,150,2.84
+521,qyqOfpsAC5ooVROm7fB0jQ,Old Town Whiskey,AZ,"4000 N Drinkwater Blvd, Scottsdale, AZ 85251",40,15,4.07
+522,mggmWBv-RHAL6iCdwRGP5Q,Soul Cafe,AZ,"7615 E Pinnacle Peak Rd, Scottsdale, AZ 85255",84,2,2.5
+523,Emdq2gs-xyTWTPbCbAk79w,Lynyrd Skynyrd BBQ and Beer,NV,"3850 Las Vegas Blvd S, Eastside, Las Vegas, NV 89109",37,2,2.5
+524,0CeEgarUoVP2Nq9s1Mn0Aw,Mad Dog Saloon,AZ,"1860 S Stapley Dr, Mesa, AZ 85204",54,7,2.29
+525,zK3rCrFE_cgXCr9mDHBdXw,Urban Heat,AZ,"1749 W Main St, Mesa, AZ 85201",3,1,2.0
+526,xZoyDn7ekD4ue_liS_nqMA,Stan Fulton Bistro,NV,"801 E Flamingo Rd, The Strip, Las Vegas, NV 89109",4,1,4.0
+527,EcUM3ONkY1RUCB1R1_4FrA,Daily Kitchen and Wellness Bar,NV,"3645 S Town Center Dr, Ste 102, South Summerlin, Las Vegas, NV 89135",74,11,3.0
+528,_jbeTDw6XSuvLaR1V_z8jw,Copper Plate An American Grill,AZ,"6033 S Sossaman Rd, Mesa, AZ 85212",5,1,4.0
+529,_TiX1DgK-5KGPp1Wwez95w,Marley's Restaurant & Bar,AZ,"15226 W Bell Rd, Surprise, AZ 85374",47,8,3.38
+530,3wLLf8wRqD1ZQowi9aZSoA,Grassroots Kitchen & Tap,AZ,"8120 N Hayden Rd, Ste E-100, Scottsdale, AZ 85258",183,12,4.75
+531,5o5MLNPmAeakGgdqeGyMvw,Cask 63,AZ,"8877 N Scottsdale Rd, Ste 402, Scottsdale, AZ 85258",79,6,4.0
+532,vlxMPuG6LYJ-c0yjd6AW3A,The Little Woody,AZ,"4228 E Indian School Rd, Phoenix, AZ 85018",95,1,5.0
+533,CEswyP-9SsXRNLR9fFGKKw,Twin Peaks,AZ,"8787 E Frank Lloyd Wright, Scottsdale, AZ 85260",150,25,3.28
+534,b1rF_Y3xbdPwP_z9NHFMjQ,Zulu Caffe,AZ,"15000 N Airport Dr, Ste 100, Scottsdale, AZ 85260",59,8,4.0
+535,EHIZFzQQ_mjzwyjcaToPtQ,Tom's Thumb Fresh Market,AZ,"9393 E Bell Rd, Scottsdale, AZ 85260",230,11,4.73
+536,KT_r7qwU8sSfcR31zETGkg,Smashburger,AZ,"9918 W Happy Valley Rd, Suite 1030, Peoria, AZ 85383",34,29,3.55
+537,fWPg3tjv0hZ_yKR670UtSQ,Sports Grill 101,AZ,"8763 E Bell Rd, Scottsdale, AZ 85260",11,1,2.0
+538,YTOU3COVuBdABXb3Wci_IA,The Scottsdale Salad Co.,AZ,"15040 N Northsight Blvd, Scottsdale, AZ 85260",18,3,3.33
+539,shpgZ07M-IBDwjz2cpjWiA,Calistro California Bistro,AZ,"6107 N Scottsdale Rd, Ste 110, Scottsdale, AZ 85250",43,2,5.0
+540,3wtRs_Ou0wingfANRnHBIA,Courtyard Grill & Buffet,NV,"301 Fremont St, Downtown, Las Vegas, NV 89101",4,1,1.0
+541,_9TMkGfbOyniL-5P3Sx0nw,Fritzs Footlong Bar & Grill,AZ,"1734 E Main St, Ste 5, Mesa, AZ 85203",6,2,4.5
+542,qKBdXH1kZNU-c9BHQaTUag,Dottie's True Blue Cafe,AZ,"4151 N Marshall Way, Scottsdale, AZ 85251",56,2,4.0
+543,5niUestkeI0tBcBAv4SyKw,Pita Jungle,AZ,"4921 E Ray Rd, Ste B2, Phoenix, AZ 85044",116,10,3.5
+544,CzU3wL2370fds07b4uQlTA,Waltz & Weiser,AZ,"6902 E Greenway Pkwy, Scottsdale, AZ 85254",4,1,4.0
+545,hMor1nxrfYKDW-AtQYytgw,Putters,NV,"8945 Las Vegas Blvd S, Southeast, Las Vegas, NV 89123",4,1,2.0
+546,MLAnvEcvDfOWELHUN_0xEw,Nimbus American Bistro N' Brewery,AZ,"7001 N Scottsdale Rd, Ste 147, Scottsdale, AZ 85253",86,10,3.4
+547,AYS-3osDnQd1M304TlGOaQ,Urban Grill,NV,"9510 S Eastern Ave, Southeast, Las Vegas, NV 89123",48,10,2.7
+548,8Fx-K9dIZz_buBZcEvkeRw,Social Tap,AZ,"7318 E Stetson Dr, Scottsdale, AZ 85251",28,5,3.0
+549,rVrpTOznd_NjplDvSK8OfQ,RePete's,NV,"2460 W Warm Springs Rd, Southeast, Las Vegas, NV 89119",89,15,4.73
+550,EXtCgZoxHNjXrqPCFOgQmQ,D'lish,AZ,"1135 E Apache Blvd, Tempe, AZ 85281",87,9,4.22
+551,xOlzK02DWzETeZ8HbiEB0A,Praying Monk,AZ,"7217 E 1st St, Scottsdale, AZ 85251",97,16,3.81
+552,zuso11YrG2rewOtSFr4aCw,Blu Burger Grille,AZ,"23233 N Pima Rd, Scottsdale, AZ 85255",9,7,3.0
+553,iJoOddOUDpJISnQxzcDw9Q,JD's,WI,"317 N Bassett St, Capitol, Madison, WI 53703",4,1,3.0
+554,XGUrSgfo-ZN9Ib1pIPU-SQ,Uptown Alley,AZ,"13525 N  Litchfield Rd, Surprise, AZ 85379",70,2,3.5
+555,nGRwQoNA5CT520hZmDuCDQ,Green Valley Ranch Grand Cafe,NV,"2485 Village View Dr, Anthem, Henderson, NV 89052",38,5,3.0
+556,5-pCgZuFz1ru54RHAfSvsw,Wildburger,NV,"2800 S Rancho Dr, Las Vegas, NV 89102",13,10,3.6
+557,v7OwbHgNgy_VQ9eP5FjvUA,Rehab Burger Therapy,AZ,"7210 E 2nd St, Scottsdale, AZ 85251",481,391,4.34
+558,kr3EFhoSwbJPrL_e_RD39g,Blue Hound Kitchen & Cocktails,AZ,"2 E Jefferson St, Phoenix, AZ 85004",206,6,3.17
+559,S8pptjMpmKGKrJ8yAmq-Zg,Kelly's At Southbridge,AZ,"7117 E 6th Ave, Scottsdale, AZ 85251",112,17,4.18
+560,eG3Kxpv-JOLib9o5W9Aiyw,A Pig In a Fur Coat,WI,"940 Williamson St, Williamson - Marquette, Madison, WI 53703",125,2,3.0
+561,XRdwAqzuG_SwVFFlOzLmEQ,Red Embers Bar & Grill,AZ,"Uptown Alley, 13525 N Litchfield Rd, Surprise, AZ 85379",14,3,3.33
+562,zPHXmaVhEr4FzfB8r-EcjQ,Detours Tavern,AZ,"2922 N Hayden Rd, Scottsdale, AZ 85251",28,12,3.33
+563,c5vw2szmGbzP76qiw5WsxA,Harvey American Public House,AZ,"1524 E Williams Field Rd, Ste 101, Gilbert, AZ 85295",125,27,3.33
+564,MEKk3J63dU3GBDg9SHuq7A,Lustre Bar,AZ,"2 E Jefferson St, Phoenix, AZ 85004",87,6,4.17
+565,XPTBPFBwjvF7rJfUa-wG5g,Angela's Kitchen,AZ,"19900 N Remington Dr, Surprise, AZ 85374",21,1,5.0
+566,UIjO8lq1Lh0H2l9VfIfifQ,Forequarter,WI,"708 E Johnson, Tenney - Lapham, Madison, WI 53703",102,1,5.0
+567,GU3GGuECUTbHG8NPHXG9mQ,Searsucker,AZ,"6900 E Camelback Rd, Scottsdale, AZ 85251",155,8,3.75
+568,FDXk2MDLPf72uEDT6Bq1Mw,Twin Peaks,NV,"3717 Las Vegas Blvd., Ste 285, The Strip, Las Vegas, NV 89109",117,23,3.57
+569,99d6qbFGTRR5oEIy5m-NCQ,Carl's Jr,AZ,"21064 E Ocotillo Rd, Queen Creek, AZ 85142",5,1,2.0
+570,a1RJtImq30iLs4oxM--QKA,The Free House Pub,WI,"1902 Parmenter St, Middleton, WI 53562",43,20,3.7
+571,57vXy5NIdmAFk1hhmsBLcg,Fat Bar,NV,"3763 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",7,3,3.0
+572,hnKSsx218Bh9qxvRppdxjA,Bistro95Ten & Lounge,NV,"9510 S Eastern Ave, Southeast, Las Vegas, NV 89123",7,2,3.5
+573,6sdQia-wdURZexBcw1rbzQ,Sevens' bistro,AZ,"7707 E Mcdowell Rd, Scottsdale, AZ 85257",57,13,3.62
+574,wQxIw6IoFCV6wg3l3dJugQ,Fat Willy's Clubhouse Pub & Grill,AZ,"650 N Hawes Rd, Mesa, AZ 85207",6,2,4.0
+575,OSsueRKTxM0MEbgIRsUebA,Taps Signature Cuisine & Bar,AZ,"9780 W Northern Ave, Ste 1110, Peoria, AZ 85345",38,4,3.75
+576,RzVwAdOxT9JQkeoeBMYPoQ,Sierra Gold,NV,"2400 N Buffalo Dr, Suite #125, Summerlin, Las Vegas, NV 89128",30,1,3.0
+577,9RjV5ZT6Np-VsK96_K1KlQ,95 Ten,NV,"Las Vegas, NV 89101",4,1,3.0
+578,eO-o7FRjNEzcSEG8pakkzA,Fate Brewing Company,AZ,"7337 E Shea Blvd, Ste 105, Scottsdale, AZ 85253",154,1,4.0
+579,zj0BkAi54BGU_AK6AyvJDQ,Rusconi's American Kitchen,AZ,"10637 N Tatum Blvd, Phoenix, AZ 85028",172,12,4.42
+580,oMEwxzRcfSuO1jekYNljSw,Market Street Kitchen,AZ,"20825 N Pima Rd, Scottsdale, AZ 85255",68,12,2.33
+581,qbEJeRvytnBo5BGG1R5kGg,Daily Dose Midtown,AZ,"1928 E Highland Ave, Ste F-107, Phoenix, AZ 85016",129,23,3.96
+582,ZP6qFq7LUh6Tr7WHPoOW6g,eat.,NV,"707 Carson Ave, Downtown, Las Vegas, NV 89101",650,9,4.0
+583,l0QcbMRUqVkX2sUXS-LYhQ,"Nick's Diner II, LLC",AZ,"14010 N Litchfield Rd, Surprise, AZ 85379",39,1,4.0
+584,cwAd2nytPLKmABtLXsgpIw,Culinary Dropout,NV,"Hard Rock Hotel & Casino, 4455 Paradise Rd, Eastside, Las Vegas, NV 89169",287,31,3.74
+585,41j3GB7M-Lwq284Pfb9zgw,Angels Trumpet Ale House,AZ,"810 N 2nd St, Phoenix, AZ 85004",349,44,4.11
+586,Q5ZD7ZAs96NAVblFDV476g,TQLA,AZ,"1840 S Val Vista Dr, Mesa, AZ 85204",105,3,4.67
+587,SsL60j4ut59-v-gjmM5PKQ,The Grind,AZ,"20511 N Hayden Rd, Scottsdale, AZ 85255",56,41,2.71
+588,po98_MmbuoJHKgDZTn9AkQ,Cowboy Lookout Grill,AZ,"1606 E Bell Rd, Paradise Valley, AZ 85022",14,4,3.75
+589,eXaVJc5GMIjYEUjbrc13FA,The House Brasserie,AZ,"6936 E Main St, Scottsdale, AZ 85251",172,2,5.0
+590,E0qnH8iICrj6C4ERcT4cJw,Firehouse Tempe,AZ,"4 E University Dr, Tempe, AZ 85281",43,3,4.67
+591,setfRzkAcOPxKH5TZLTqJQ,Olive & Ivy,AZ,"3400 E Sky Harbor Blvd, Ste 3300, Phoenix, AZ 85034",38,1,4.0
+592,PG0itWTUdxdy39P9CTgAzg,TC's Pub and Grub,AZ,"7205 S Power Rd, Queen Creek, AZ 85297",33,6,4.33
+593,5yDWNMFglisReWoTykOTRg,Gates & Brovi,WI,"3502 Monroe St, Dudgeon-Monroe, Madison, WI 53711",66,27,3.3
+594,86fq6mtHmd6VL8GROG4vSQ,Tavern Americana,AZ,"20469 N Hayden Rd, Scottsdale, AZ 85255",44,8,3.5
+595,nXOPTOqe8UN5UQPeaFVY4Q,Cafe Vetro,NV,"2600 W Harmon Ave, The Strip, Las Vegas, NV 89109",13,1,4.0
+596,ytKoF3d0XQGt5Va8ru0GMQ,Cactus Moon,AZ,"1269 N Promenade Pkwy, Ste 121, Casa Grande, AZ 85194",15,3,3.0
+597,G889tD7nYKehDXYXGYJehw,Sip N Slider,NV,"716 Center St, Ste 130, Henderson, NV 89015",4,2,3.5
+598,eD2np2oaT6GOoa4H2FUiaQ,Grill 55,NV,"Renaissance Las Vegas, 3400 Paradise Rd, Eastside, Las Vegas, NV 89109",16,4,3.75
+599,c9wKRLG8MmJVdFIx9qtgfA,Meatball Spot,NV,"6605 Las Vegas Blvd, Ste 145, Southeast, Las Vegas, NV 89119",191,4,3.0
+600,25fxw_jOqZtJwl18cCarIA,Honey Salt,NV,"1031 S Rampart Blvd, Westside, Las Vegas, NV 89145",496,56,3.95
+601,I4vC08JXAFjXszUZAszh2Q,Native Grill & Wings,AZ,"7322 W Bell Rd, Glendale, AZ 85308",37,4,2.25
+602,HrSowDDXw71VD_d-4g7I5g,The Yard,AZ,"5632 N 7th St, Phoenix, AZ 85014",263,20,3.35
+603,LHDdVzvX1q_LWfIwTU8fHg,347 Grill,AZ,"16000 Maricopa Rd, Maricopa, AZ 85138",23,4,3.75
+604,5npcHq7cvdJlgQen_1n80Q,Ling and Louie's Kitchen,AZ,"2502 E Camelback Rd, Phoenix, AZ 85016",47,4,3.25
+605,swuZvAsztWfd1W4aZIwG1A,UltraStar Multi-tainment Center at Ak-Chin Circle,AZ,"16000 Maricopa Rd, Maricopa, AZ 85139",31,1,3.0
+606,mqLIvIVWmV00VWo3L5pj3Q,Cowboy Ciao,AZ,"3800 E Sky Harbor Blvd, Ste 4348, Phoenix, AZ 85034",86,8,4.12
+607,XYJsNiECY0Z-fV6rejvprQ,She by Morton's,NV,"3720 S Las Vegas Blvd, The Strip, Las Vegas, NV 89158",81,1,5.0
+608,G149aO4XXAKBsUcksvuI7g,Original ChopShop Co.,AZ,"7158 E 5th Ave, Scottsdale, AZ 85251",228,2,2.5
+609,uyEUL3Oskfa1fOYCksyM8A,Citizens Kitchen & Bar,NV,"3950 Las Vegas Blvd, The Strip, Las Vegas, NV 89119",234,29,2.83
+610,cSA2pB43cv71ffdIvaEodA,Cafeteria on Thomas,AZ,"507 W Thomas Rd, Ste 4, Phoenix, AZ 85013",29,4,5.0
+611,Kxp8cIMt3-vxwtCSsL9QKQ,Fat Choy,NV,"Eureka Casino, 595 E Sahara Ave, Eastside, Las Vegas, NV 89104",198,62,3.98
+612,OFI8tngHQ3UWw-fCLmDv5Q,Barrel Grill & Modern Saloon,AZ,"15703 N 83rd Ave, Peoria, AZ 85382",42,4,3.5
+613,83RLRT-MsvXQJrmIanqVYA,Spokes On Southern,AZ,"1470 E Southern Ave, Tempe, AZ 85282",88,12,3.75
+614,4Y9-JiDz9EVR_-UkUv4dYg,Culinary Dropout,AZ,"5632 N 7th St, Phoenix, AZ 85014",135,11,3.36
+615,828CmrhMEUwSzrvZAlJ_LA,Remiix,NV,"1801 E Tropicana Ave, Ste 2, Eastside, Las Vegas, NV 89119",24,1,3.0
+616,5ALqZbLAonfCRZMY-X_MyQ,Mayo Clinic Hospital Cafeteria,AZ,"5777 E Mayo Blvd, Phoenix, AZ 85054",10,1,5.0
+617,IWBqtGTuIxPOT486dzL4qQ,Chelsey's Kitchen,AZ,"Phoenix Sky Harbour Airport, Phoenix Sky Harbor Center, AZ 85034",3,1,2.0
+618,bVNXS0uMq3BKIrnLHTvpbg,Wildfire Sunset,NV,"1195 W Sunset Rd, Henderson, NV 89014",11,8,3.62
+619,s9sTtT5tlqAMgR4gYvLogA,Chili's Grill & Bar,AZ,"3045 W Agua Fria Fwy, Phoenix, AZ 85027",7,1,2.0
+620,TgIJfXqEKE-JsD0QUoaC5Q,Spoke & Wheel,AZ,"8525 N Central Ave, Phoenix, AZ 85020",86,33,3.97
+621,82yh4-ZTPaBaKFFgY5kuzA,Greens and Proteins,NV,"9809 W Flamingo Rd, Spring Valley, Las Vegas, NV 89147",157,30,3.93
+622,nUUYvBafHYH-O4Pht6lgsw,Salad and Go,AZ,"743 N Gilbert Rd, Gilbert, AZ 85234",80,1,5.0
+623,H8p9e4yYz464awT3P7b1mA,Heraea,NV,"4381 W Flamingo Rd, Las Vegas, NV 89103",25,3,3.33
+624,6VsKUNttbfmkWwz3S3SX_g,Freddy's Frozen Custard and Steakburgers,AZ,"14029 W Waddell Rd, Surprise, AZ 85379",41,26,3.77
+625,-O7Szp08dATVv71IuDt1bA,Times 3 Sports Grille,AZ,"6525 W Happy Valley Rd, Glendale, AZ 85310",30,3,3.0
+626,aNuyJOFNrb-d71amzPpxlw,Twin Peaks,AZ,"2135 E. Camelback Rd., Phoenix, AZ 85016",62,6,3.17
+627,RSTKhE2C2RaWTsEJ3ULvKw,Wild Side Grill,AZ,"7215 S Power Rd, Ste 107, Queen Creek, AZ 85142",39,9,3.44
+628,leEhsPA6NKRZ0CAKdmJwWQ,Vic's,NV,"2450 Hampton Rd, Anthem, Henderson, NV 89052",46,2,3.0
+629,MthnswWexrUtCzH3vS5YnQ,Hi Fi Kitchen & Cocktails,AZ,"4420 N Saddlebag Trl, Scottsdale, AZ 85251",105,4,4.5
+630,MyLMfGJdJqCfWJcfXJkP4w,Little Texas Restaurant,AZ,"1328 E Florence Blvd, Casa Grande, AZ 85122",8,1,4.0
+631,SGrwpoGhLrHrBLWDwOL6eg,Moonshine Whiskey Bar & Grill,AZ,"410 S Mill Ave, Tempe, AZ 85281",39,2,3.0
+632,_3R0ELm45KHRb52rAilyOw,Pecan Grove Restaurant and Pie Co.,AZ,"4960 S Alma School Rd, Chandler, AZ 85248",51,8,2.12
+633,lsF6bbPFM7USmiSIyOaCXA,Barrelhouse American Kitchen & Cocktails,AZ,"2050 N Alma School Rd, Ste 8, Chandler, AZ 85224",148,18,4.22
+634,WjtJAtp19nA61b8LT9uLrA,Bink's Midtown,AZ,"2320 E Osborn Rd, Phoenix, AZ 85016",136,12,3.92
+635,itFwrNtjrQL5NPMYTeD44g,Park on Fremont,NV,"506 Fremont St, Downtown, Las Vegas, NV 89101",285,29,3.55
+636,JQVAU-HWBnrBGpGB6OvFfg,Mesquite Grille,AZ,"10690 E Sheena Dr, Scottsdale, AZ 85255",17,1,4.0
+637,RejTcczJRLYTnbmKihNpyA,The Western,AZ,"6830 E 5th Ave, Scottsdale, AZ 85251",37,5,3.4
+638,4dB7kQ7qtTkW2v7DX38r_w,Dierks Bentley's Whiskey Row,AZ,"4420 N Saddlebag Trl, Ste 105, Scottsdale, AZ 85251",105,13,4.15
+639,SfVsLCVap7VlF3GLUI8PlQ,RBG Bar & Grill,AZ,"427 N 44th St, Phoenix, AZ 85008",3,1,5.0
+640,3OB5gQqibKGTzx9R1w7wKQ,SkinnyFATS,NV,"6261 Dean Martin Dr, Las Vegas, NV 89118",394,77,4.16
+641,OlKX_FAE38BjfKsyjLQF5A,Burger Brothers,NV,"9111 Las Vegas Blvd S, Southeast, Las Vegas, NV 89123",34,31,3.39
+642,h7R_IMg3nss8I5nV7sbmfg,Nacho Daddy,NV,"113 N 4th St, Downtown, Las Vegas, NV 89101",85,7,3.57
+643,eopVWkFQ_AB53m_17bCl-Q,Renegade by MOD,AZ,"9343 E Shea Blvd, Scottsdale, AZ 85260",51,7,3.71
+644,jXwMec7aDs_hXKhSUvBHfw,Greek Grill & Fry Co.,AZ,"4929 W Ray Rd, Chandler, AZ 85226",20,2,4.0
+645,grjeZhCQt_C72ZTPQtD4gA,Ogden's Hops and Harvest,NV,"450 S Rampart Blvd, Ste 120, Westside, Las Vegas, NV 89145",71,22,3.32
+646,XQ3JL3uvqeMeDIl2qJ_Igg,Basil Thai Fusion,NV,"4341 N Rancho Dr, Northwest, Las Vegas, NV 89130",16,1,4.0
+647,eEU1XtdASLqdAGKg0QDNdg,Original ChopShop Co.,AZ,"222 E University Dr, Tempe, AZ 85281",87,3,3.67
+648,pVnUE5EeIaIbjXzaH7sLyw,The Attic,AZ,"4247 E Indian School Rd, Phoenix, AZ 85018",86,60,4.27
+649,y-7MgH1zwW3vagfSLlmZUw,Virtù,AZ,"3701 N Marshall Way, Scottsdale, AZ 85251",59,1,4.0
+650,jS3cHd1E5TuUZbQWpBZqVg,McFadden's Restaurant and Saloon,NV,"6593 Las Vegas Blvd S, Ste 222, Southeast, Las Vegas, NV 89119",118,15,2.93
+651,xOy3lZcDvGp40BI5x-PR9w,The Sparklings,NV,"8310 S Rainbow Blvd, Ste 100, Southwest, Las Vegas, NV 89139",178,4,4.0
+652,dHDJmPf0SIkL3ZJ8mpHffQ,Carnivore Peri Peri Grill,AZ,"N 98th Ave, Peoria, AZ 85345",7,1,1.0
+653,KgbCo7ZDFc5bY7w09PReGQ,Cafe At Desert Ridge,AZ,"20910 N Tatum Blvd, Ste 100, Phoenix, AZ 85050",32,3,3.0
+654,1Zj3JOukVxyU2kq4Vhju9A,Rx Boiler Room,NV,"3930 Las Vegas Blvd, The Strip, Las Vegas, NV 89119",139,13,3.46
+655,6R64RobXc6wzbKHmZtGo_A,Coach's Corner Grill,AZ,"333 E Jefferson, Phoenix, AZ 85004",38,10,4.5
+656,XiCnbGY6R92Ji7r38jceZA,Chick-Fil-A,AZ,"1601 E Camelback Rd, Phoenix, AZ 85016",35,1,2.0
+657,YYm1mnmE36Ne7d5sT9huZQ,Short Leash Hot Dogs,AZ,"110 E Roosevelt St, Phoenix, AZ 85004",150,1,3.0
+658,IOwuFFUwRljuOxatDCGm6w,The House of Brews,AZ,"825 S Cooper Rd, Gilbert, AZ 85233",45,14,3.43
+659,vbIgxwyyTq03158xRvnfuQ,American TapHouse,AZ,"1026 S Gilbert Rd, Gilbert, AZ 85296",45,8,2.5
+660,eqbpaxfx2DHhG-cj9L8tVg,Perfect Pear Bistro,AZ,"1241 E Chandler Blvd, Phoenix, AZ 85048",58,1,4.0
+661,xM_tsBE4PPb_ZFcXq16Bew,Ditka's SteakHouse,AZ,"15091 S Komatke Ln, Laveen, AZ 85339",15,2,2.0
+662,Ao7CfxWU45hDPhWoa5STLg,Double Yoke,NV,"6050 Sky Pointe Dr, Centennial, Las Vegas, NV 89130",11,1,4.0
+663,bn2HqLj_XpPG9UE3mAo5cg,Divine Eatery,NV,"7181 N Hualapai Way, Ste 115, Centennial, Las Vegas, NV 89166",60,9,4.78
+664,M1RU0hAip_mmgNr_o4R5Lw,Whiskey Rose,AZ,"9375 W Westgate Blvd, Glendale, AZ 85305",17,3,2.33
+665,4SEaQmnUIpqZXPyCmHZc1A,Nook,AZ,"3623 E Indian School Rd, Phoenix, AZ 85018",125,5,4.0
+666,TSg3URWOZ_I8vZGajxQ_6g,The Gladly,AZ,"2201 E Camelback Rd, Phoenix, AZ 85016",142,7,4.0
+667,RsHTIOVFfmrnnhp-Z9YP8Q,Heritage Tavern,WI,"131 E Mifflin St, Capitol, Madison, WI 53703",76,1,4.0
+668,umm-6FnNkuO3BbVk3hmPBg,Millside,NV,"5710 Losee Rd, North Las Vegas, NV 89081",18,7,2.86
+669,yC6OzkWd3bzHfcMZm7WpWQ,The Vig Fillmore,AZ,"606 N 4th Ave, Phoenix, AZ 85003",113,14,4.29
+670,vyuwiNGXzXA3dmZFEy_4tw,Filiberto's Sports Grill,AZ,"4370 S Miller Rd, Buckeye, AZ 85326",7,2,4.0
+671,FN8DhpdO4UBnynOzswVCCA,Public House On Sixth,AZ,"640 S Mill Ave, Ste 140, Tempe, AZ 85282",25,2,4.0
+672,kOYt_t9nmcAcXP4k9U0efQ,Rock & Vine Bar and Grill,AZ,"8900 E Pinnacle Peak Rd, Ste B1, Scottsdale, AZ 85255",17,3,4.33
+673,ED5oeL6iFodGNcfHtobQGA,Tempo Urban Bistro and Coffee Bar,AZ,"21067 W Main St, Buckeye, AZ 85396",31,1,1.0
+674,bSrl0gA6QS4oBcfTlQEjRw,The Mix Up Bar,AZ,"5200 E Camelback Rd, Phoenix, AZ 85018",9,4,4.0
+675,tbt8TduAgw21YAr8uw_AYQ,Twenty Highland Tavern,AZ,"4701 N 20th St, Phoenix, AZ 85016",33,9,4.33
+676,PY1Wd9Vj7caMGt4u-t1t2w,Karla's Sports Lounge & Restaurant,AZ,"2448 Grand Ave, Phoenix, AZ 85009",3,1,4.0
+677,VapdXuC8X-Q3T_wgA6yCAg,Pizza People Pub,AZ,"1326 N Central Ave, Phoenix, AZ 85004",113,15,4.0
+678,_BrLcaVzE6GqBilwmdQOfg,Elixir,NV,"2920 Green Valley Pkwy, Henderson, NV 89014",52,4,3.25
+679,AYF-t7Yge-3mn2StQiEXvg,WILD,NV,"150 N Las Vegas Blvd, Ste 120, Downtown, Las Vegas, NV 89101",81,3,4.67
+680,pJYBHoAJyE_nXhYDqaP8RQ,The Haymaker Restaurant Co,AZ,"24762 N Lake Pleasant Pkwy, Ste 101, Peoria, AZ 85383",72,18,3.83
+681,uS8SPE2PTZSZdy13QFrpCg,Derby Public House,AZ,"4420 N Saddlebag Trl, Scottsdale, AZ 85251",46,2,4.0
+682,IUnRnZHmA56Tgr2acpHRow,Four Peaks Brewing Company,AZ,"Sky Harbor International Airport, Terminal 4 3400 E Sky Harbor Blvd, Phoenix, AZ 85034",59,9,3.0
+683,24sfMJfk7VawkvYONirHaA,Slate Bistro & Bar,AZ,"4415 E Village Pkwy, Gilbert, AZ 85298",8,1,5.0
+684,dmXfK7G0h8zknsR2dfr1bw,Raising Cane's,AZ,"1945 S Stapley Dr, Mesa, AZ 85204",47,2,4.0
+685,X7Z4IfguKLoBGHtfsCT59w,Austin's Restaurant & Bar,AZ,"530 N Estrella Pkwy, Goodyear, AZ 85338",31,8,3.62
+686,AKQvTmpNDluGzt9pLYmxAw,Champion Field,AZ,"8763 E Bell Rd, Scottsdale, AZ 85260",17,3,4.33
+687,z7wUzllCnzHVuNzMQw43Hw,Pita Jungle,AZ,"14858 N Frank Lloyd Wright Blvd, Scottsdale, AZ 85260",56,1,4.0
+688,e2oXHln1dux2ACR0QQGoeQ,Ingo's Tasty Food,AZ,"4502 N 40th St, Phoenix, AZ 85018",103,80,4.3
+689,4MB98W98rKBU0X26pTbw0w,Bootleggers,AZ,"7217 E 1st St, Scottsdale, AZ 85251",87,5,3.8
+690,3Aj7Lv5kKfFWVvfmtDbuhA,Scottsdale Station,AZ,"8220 N Hayden Rd, Scottsdale, AZ 85258",48,4,2.75
+691,guLkdetJ603Bw_A6tuecIg,The Henry,AZ,"4455 E Camelback Rd, Phoenix, AZ 85018",189,12,3.33
+692,NqA43LG4PCPEDQT672zMNA,Pita Jungle,AZ,"1652 S. Val Vista Dr., Suite 128, Mesa, AZ 85204",49,1,5.0
+693,uft0J3Wd5JkDOcuqjoNghA,Pork & Beans,NV,"707 Fremont St, Bldg 5, Ste 1050, Downtown, Las Vegas, NV 89101",26,1,4.0
+694,RoNqL3P67m2XnrObqilZgQ,Second Story Liquor Bar,AZ,"4166 N Scottsdale Rd, Scottsdale, AZ 85251",58,1,3.0
+695,vxSgQVoU3jJ4jVf-U1n0pw,Stadium Sports Grill,AZ,"Tempe Marketplace, 2000 E Rio Salado Pkwy, Tempe, AZ 85281",19,2,1.5
+696,cJ9UUuMoDCjJpWWpDi64hQ,Bink's Scottsdale,AZ,"6107 N Scottsdale Rd, Scottsdale, AZ 85250",40,3,3.33
+697,FCnN5HnV63OPnxl9ga-YKg,TapHouse Kitchen,AZ,"6137 N Scottsdale Rd, Ste 108, Scottsdale, AZ 85250",52,11,3.55
+698,lfmvmL6iHq9-IDABLeNsuw,Rose. Rabbit. Lie.,NV,"3708 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",253,1,2.0
+699,prL6S0P__VGn3iXc-TSlpA,Fleming's Prime Steakhouse & Wine Bar,NV,"6515 South Las Vegas Blvd., Southeast, Las Vegas, NV 89119",78,3,3.0
+700,0QUjIl8sGZsA0L1JCqVAgA,Pink Pony,AZ,"3831 N Scottsdale Rd, Scottsdale, AZ 85251",58,10,4.2
+701,gpdBiTU4FWxBz4sAb9UW3g,Grassroots Kitchen & Tap,AZ,"2119 E Camelback Rd, Ste A21, Phoenix, AZ 85016",68,3,4.67
+702,aTqFeIRwtjCBSMJ8uzAoIA,Bluelemon,AZ,"4341 E Baseline Rd, Gilbert, AZ 85234",64,5,3.0
+703,C70R_7VBmd4WHCZp1B9i1A,OSS Madison,WI,"910 Regent St, South Campus, Madison, WI 53715",23,1,4.0
+704,3W3e6nbSxePT4ctJGkljZQ,Twin Peaks,NV,"9510 S. Eastern Ave., Ste. 100, Southeast, Henderson, NV 89123",89,13,3.15
+705,PbfrZVqGWDVWklKKxmVkzw,Yard House,NV,"3545 Las Vegas Blvd., South L-17, The Strip, Las Vegas, NV 89109",124,21,4.1
+706,ONHAq_VRqJrzLSjnmYeDUg,E & N Family Table Restaurant,NV,"4460 S Durango Dr, Ste H, Spring Valley, Las Vegas, NV 89147",16,1,4.0
+707,4ntvolhaYeSCbHY1dhA53A,Brooklyn Bowl,NV,"3545 Las Vegas Blvd S, Ste 22, The Strip, Las Vegas, NV 89109",151,4,3.0
+708,oly8HWl0MtuioFWKPINIFg,Cheddar's,AZ,"2530 W Chandler Blvd, Chandler, AZ 85224",80,6,2.5
+709,jgkT9RA3OCBqgniWCkwLrA,Krayvings,NV,"11770 W Charleston Blvd, Ste 150, Summerlin, Las Vegas, NV 89135",62,1,5.0
+710,QEGx_9YMYzu_IOLaFz7arQ,Blu Burger Grille,AZ,"7366 E Shea Blvd, Scottsdale, AZ 85260",12,9,4.33
+711,VbyyRLpKpdo3uerbqRT5XA,Tarbell's The Tavern,AZ,"3209 E Camelback Rd, Phoenix, AZ 85018",13,4,4.5
+712,kT_7_6nj39hV7o98c8WLbA,Modern Grove,AZ,"15530 N Tatum Blvd, Phoenix, AZ 85032",107,22,3.05
+713,YUF10BZVW4aQUe_NxOleyg,MWC Bistro,AZ,"1422 W Warner Rd, Ste A-100, Gilbert, AZ 85233",21,4,2.75
+714,z49aOi7flFdXBXbC58QJvg,The Local,AZ,"1011 N 3rd St, Phoenix, AZ 85004",47,1,3.0
+715,PbU2ovpaPWIOeb_CkUqyDQ,Moxie Modern Fare,AZ,"13014 N Saguaro Blvd, Fountain Hills, AZ 85268",10,3,3.0
+716,huSYFgKj79uaZSerXcltZQ,Cheddar's,AZ,"2530 W Chandler Blvd, Chandler, AZ 85224",8,2,3.0
+717,0Zec6RiFV6h6TbOFb7xu3A,Zinburger Wine & Burger Bar,AZ,"15257 N. Scottsdale Road, #F150, Scottsdale, AZ 85254",28,18,3.83
+718,fwYujhi514Ie5GsdIZsa2g,Flower Child,AZ,"5013 N 44th St, Suite B2025B, Phoenix, AZ 85018",70,2,4.5
+719,lsEhz6Lz1-UBGbwHACDJtw,OHSO Eatery + Distillery,AZ,"15681 N Hayden Rd, Ste 112, Scottsdale, AZ 85260",49,13,3.62
+720,Kkx7XMwkd8GdhWln1vEYkQ,Urban Vine,AZ,"2201 N 7th St, Phoenix, AZ 85006",18,4,3.5
+721,AcLAMiHakgu-DR3YTL0kcQ,17 South Booze & Bites,NV,"7200 S Las Vegas Blvd, Southeast, Las Vegas, NV 89119",6,3,4.33
+722,e0HQNVQcfsTavbOsIlCd6w,The Wiener's Circle Las Vegas,NV,"11011 W Charleston Blvd, South Summerlin, Las Vegas, NV 89135",11,4,4.25
+723,sih8j621A66QoiUFues5qQ,Carson Kitchen,NV,"124 S 6th St, Ste 100, Downtown, Las Vegas, NV 89101",75,8,4.5
+724,HzQ2B6p8OuHOtYnXPqvd8w,The Vig McCormick Ranch,AZ,"7345 N Via Paseo Del Sur, Scottsdale, AZ 85258",26,3,4.33
+725,ZpB2O-WAbbRHdP0V8GrwXA,LYFE Kitchen,NV,"140 S Green Valley Pkwy, Ste 142, Henderson, NV 89012",34,5,3.4
