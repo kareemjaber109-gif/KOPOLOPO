@@ -467,15 +467,15 @@ PAGES = {
 
 def main() -> None:
     st.set_page_config(
-        page_title="Yelp Green Dashboard",
+        page_title="kopo - Yelp Dashboard",
         page_icon="🍃",
         layout="wide",
         initial_sidebar_state="expanded",
     )
     inject_css()
     with st.sidebar:
-        st.markdown("## 🍃 Yelp Miner")
-        st.caption("Data Mining Project · UIUC / Coursera")
+        st.markdown("## 🍃 kopo")
+        st.caption("kopo · Yelp Data Mining Project")
         page = st.radio("التنقّل", list(PAGES.keys()), index=0)
         st.markdown("---")
         st.markdown("الثيم الأخضر · نتائج جاهزة من الخطوات الخمس")

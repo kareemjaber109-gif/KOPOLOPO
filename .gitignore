@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments & user config folder
+_userhome/
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+!.env.example
+
+# Raw large dataset files
+dataset/*.json
+dataset/*.zip
+
+# OS files
+Thumbs.db
+.DS_Store

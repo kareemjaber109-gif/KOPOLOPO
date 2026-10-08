@@ -1,4 +1,4 @@
-# Data-Mining-Project
+# kopo - Data Mining Project
 This is a data mining project from the University of Illinois Urbana-Champaign from Coursera using [Yelp Dataset]() 
 
 <img width="960" alt="yelp" src="https://github.com/user-attachments/assets/c66c331d-6120-4f66-abe5-92e6d39a29a2">
